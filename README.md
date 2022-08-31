@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
-<h3 align="center">A passionate student from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=0e75b6&style=flat" alt="soumyak4" /> </p>
+<h3 align="center">A passionate student from India</h3>
+<h3 align="center">Teaching Martial Arts for Body & Brain</h3>
+<hr class="solid">
 
 - 🔭 I’m currently working on [My personal website with WordPress](https://soumyakundu.ml/)
 
-- 🌱 I’m currently learning **Data analysis with Python**
+- 🌱 I’m currently learning **[Data analysis with Python](https://www.insaid.co/certificate-in-data-science-foundation/)**
 
 - 👯 I’m looking to collaborate on **Beginner Data Science projects**
 
-- 🤝 I’m looking for help with **My data science journey**
+- 🤝 I’m looking for help with: **[My data science journey](https://www.buymeacoffee.com/SoumyaK4)** 
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 💬 Ask me about: **Martial Arts for [Body](https://fb.com/WIngChunPalta/) & [Brain](https://soumyakundu.ml/weiqi-blog/)**
 
-- 💬 Ask me about **Martial Arts for Body and Brain**
+- 📄 Know about my experiences: [LinkedIn](https://linkedin.com/in/SoumyaK4)
 
-- 📫 How to reach me **soumyakundu55@gmail.com**
+<hr class="solid">
 
-- 📄 Know about my experiences [https://linkedin.com/in/SoumyaK4](https://linkedin.com/in/SoumyaK4)
-
-- ⚡ Fun fact **I think everything is funny 😂**
-
-<h3 align="left">Connect with me:</h3>
+<h3 style="width:50%; float:left;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soumyak4k" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumyak4k" height="30" width="40" /></a>
@@ -45,6 +41,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyak4" height="30" width="40" /></a>
 </p>
 
+<hr class="solid">
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -57,6 +55,9 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -73,14 +74,23 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 
-<!--
+<hr class="solid">  
+
+<h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3>
+<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p><br><br>
+
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
+
+
+<!-- FUTURE ADDITIONS
+- 📫 How to reach me **soumyakundu55@gmail.com**
+- 👨‍💻 All of my projects are available at [N/A](N/A)
+- ⚡ Fun fact **I think everything is funny 😂**
+
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
 -->
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p><br><br>
 
