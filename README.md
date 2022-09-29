@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Beginner Data Science projects**
 
-- 🤝 I’m looking for help with: **[My data science journey](https://www.buymeacoffee.com/SoumyaK4)** 
+- 🤝 I’m looking for help with: **[My Data Science and Baduk/Weiqi learning journey](https://www.buymeacoffee.com/SoumyaK4)** 
 
 - 💬 Ask me about: **Martial Arts for [Body](https://fb.com/WIngChunPalta/) & [Brain](https://soumyakundu.ml/weiqi-blog/)**
 
