@@ -3,17 +3,19 @@
 <h3 align="center">Teaching Martial Arts for Body & Brain</h3>
 <hr class="solid">
 
-- 🔭 I’m currently working on [My personal website with WordPress](https://soumyakundu.ml/)
+- 🔭 I’m currently volunteering for [AIGP](https://aigp.org.in/) as Treasurer 
+
+- 🔭 [My personal website](https://soumyakundu.ml/)
 
 - 🌱 I’m currently learning **[Data analysis with Python](https://www.insaid.co/certificate-in-data-science-foundation/)**
 
-- 👯 I’m looking to collaborate on **Beginner Data Science projects**
+- 👯 I’m looking to collaborate on **Python EDA projects**
 
 - 🤝 I’m looking for help with: **[My Data Science and Baduk/Weiqi learning journey](https://www.buymeacoffee.com/SoumyaK4)** 
 
 - 💬 Ask me about: **Martial Arts for [Body](https://fb.com/WIngChunPalta/) & [Brain](https://soumyakundu.ml/weiqi-blog/)**
 
-- 📄 Know about my experiences: [LinkedIn](https://linkedin.com/in/SoumyaK4)
+- 📄 Know about my Education and Experiences: [LinkedIn](https://linkedin.com/in/SoumyaK4)
 
 <hr class="solid">
 
