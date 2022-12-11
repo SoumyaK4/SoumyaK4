@@ -84,10 +84,10 @@
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
 
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaK4&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaK4&show_icons=true&theme=transparent" width="40%" height="40%"/>
 </a>
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoumyaK4&theme=flag-india&hide_border=true&mode=weekly" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoumyaK4&theme=flag-india&hide_border=true&mode=weekly" width="40%" height="40%"/>
 </a>
 
 <!-- FUTURE ADDITIONS
