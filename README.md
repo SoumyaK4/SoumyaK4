@@ -44,7 +44,7 @@
 </p>
 
 <hr class="solid">
-
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -83,6 +83,12 @@
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
 
+<a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaK4&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoumyaK4&theme=flag-india&hide_border=true&mode=weekly" />
+</a>
 
 <!-- FUTURE ADDITIONS
 - 📫 How to reach me **soumyakundu55@gmail.com**
@@ -94,5 +100,8 @@
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
--->
 
+Extra pin [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaK4&layout=compact&hide=ts,js)](https://github.com/SoumyaK4/github-readme-stats)
+-->
