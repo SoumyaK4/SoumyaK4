@@ -75,8 +75,23 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 
+<a href="https://numpy.org/images/logo.svg" target="_blank" rel="noreferrer"> 
+<img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
+
+<a href="https://pandas.pydata.org/static/img/pandas_white.svg" target="_blank" rel="noreferrer"> 
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
+
+<a href="https://matplotlib.org/_static/images/logo_dark.svg" target="_blank" rel="noreferrer"> 
+<img src="https://matplotlib.org/_static/images/logo_dark.svg" alt="matplotlib" width="40" height="40"/> </a>
+
+<a href="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" target="_blank" rel="noreferrer"> 
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  
+<a href="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress,format" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/800px-Plotly-logo.png" alt="plotly" width="40" height="40"/> </a>
+  
 <hr class="solid">  
 
 <h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3>
