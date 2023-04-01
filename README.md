@@ -97,8 +97,6 @@
 <h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3>
 <p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p><br><br>
 
-<!-- FUTURE ADDITIONS
-
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
 
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
@@ -107,6 +105,10 @@
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoumyaK4&theme=flag-india&hide_border=true&mode=weekly" width="40%" height="50%"/>
 </a>
+
+<!-- FUTURE ADDITIONS
+
+
 
 - 📫 How to reach me **soumyakundu55@gmail.com**
 - 👨‍💻 All of my projects are available at [N/A](N/A)
