@@ -5,7 +5,7 @@
 
 - 🔭 Currently working as a Mentor & Treasurer at [AIGP](https://aigp.org.in/)
 
-- 🔭 [My Personal Website](https://soumyakundu.ml/)
+- 🔭 [My Personal Website](https://soumyak4.github.io/)
 
 - 📄 [The Fallen Poet](https://www.miraquill.com/the_fallen_poet)
 
