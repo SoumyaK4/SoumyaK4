@@ -9,13 +9,13 @@
 
 - 📄 [The Fallen Poet](https://www.miraquill.com/the_fallen_poet)
 
-- 🌱 I’m currently learning **[Exploratory Data Analysis with Python at INSAID](https://www.insaid.co/certificate-in-data-science-foundation/)**
+- 🌱 I’m currently learning **Django**
 
-- 📄 Know about my Education and Experiences: [LinkedIn](https://linkedin.com/in/SoumyaK4)
+- 📄 Know about my [Education](https://linkedin.com/in/SoumyaK4)
 
-- 📄 Check all my Certifications [Here](https://github.com/SoumyaK4/Important-Docs/blob/main/README.md)
+- 📄 Know about my [Experiences](https://soumyak4.github.io/MA.html)
 
-- 💬 Ask me about: **Martial Arts for [Body](https://fb.com/WIngChunPalta/) & [Brain](https://soumyakundu.ml/weiqi-blog/)**
+- 💬 [Ask Me](https://t.me/soumyak4) about: **Martial Arts for Body & Brain**
 
 
 <hr class="solid">
@@ -95,9 +95,13 @@
 <hr class="solid">  
 
 <h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3>
-<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p>
 
-<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
+
+
+<!-- FUTURE ADDITIONS
+
 
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaK4&show_icons=true&theme=transparent" width="40%" height="50%"/>
@@ -105,10 +109,6 @@
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoumyaK4&theme=flag-india&hide_border=true&mode=weekly" width="40%" height="50%"/>
 </a>
-
-<!-- FUTURE ADDITIONS
-
-
 
 - 📫 How to reach me **soumyakundu55@gmail.com**
 - 👨‍💻 All of my projects are available at [N/A](N/A)
