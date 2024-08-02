@@ -3,13 +3,11 @@
 <h3 align="center">Teaching Martial Arts for Body & Brain</h3>
 <hr class="solid">
 
-- 🔭 Currently working as a Mentor & Treasurer at [AIGP](https://aigp.org.in/)
+- 🔭 Currently working as a Mentor at [AIGP](https://aigp.org.in/)
 
-- 🔭 [My Personal Website](https://soumyak4.github.io/)
+- 🔭 [My Personal Website](https://soumyak4.in/)
 
 - 📄 [The Fallen Poet](https://www.miraquill.com/the_fallen_poet)
-
-- 🌱 I’m currently learning **Django**
 
 - 📄 Know about my [Education](https://linkedin.com/in/SoumyaK4)
 
@@ -45,7 +43,18 @@
 </p>
 
 <hr class="solid">
+
+<h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3>
+<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
   
+<hr class="solid">
+
+
+
+<!-- FUTURE ADDITIONS
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -94,14 +103,6 @@
   
 <hr class="solid">  
 
-<h3 align="left">↓ Help me keep my sanity through my learning journey ↓</h3>
-<p><a href="https://www.buymeacoffee.com/SoumyaK4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumyaK4" /></a></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen" alt="soumyak4" /> </p>
-
-
-<!-- FUTURE ADDITIONS
-
 
 <a href="https://github.com/SoumyaK4/SoumyaK4/edit/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaK4&show_icons=true&theme=transparent" width="40%" height="50%"/>
@@ -113,6 +114,7 @@
 - 📫 How to reach me **soumyakundu55@gmail.com**
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 - ⚡ Fun fact **I think everything is funny 😂**
+- 🌱 I’m currently learning **Django**
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
