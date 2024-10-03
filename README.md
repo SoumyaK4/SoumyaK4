@@ -11,7 +11,7 @@
 
 - 📄 Know about my [Education](https://linkedin.com/in/SoumyaK4)
 
-- 📄 Know about my [Experiences](https://soumyak4.github.io/MA.html)
+- 📄 Know about my [Experiences](https://soumyak4.in/Experiences)
 
 - 💬 [Ask Me](https://t.me/soumyak4) about: **Martial Arts for Body & Brain**
 
