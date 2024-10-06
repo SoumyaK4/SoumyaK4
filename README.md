@@ -5,6 +5,8 @@
 
 - 🔭 Currently working as a Mentor at [AIGP](https://aigp.org.in/)
 
+- 📄 Learn Baduk - Weiqi - Go Game : [Roadmap](https://weiqi.soumyak4.in/)
+
 - 🔭 [My Personal Website](https://soumyak4.in/)
 
 - 📄 [The Fallen Poet](https://www.miraquill.com/the_fallen_poet)
