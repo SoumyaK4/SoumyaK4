@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 [My Personal Website](https://soumyak4.in/) 🧑🏻‍💻
 
-- ✍🏽 [The Fallen Poet](https://www.miraquill.com/the_fallen_poet) ✍🏽
+- ✍🏽 [The Fallen Poet](https://www.miraquill.com/user.html?username=the_fallen_poet) ✍🏽
 
 - 🎓 Know about my [Education](https://linkedin.com/in/SoumyaK4) 🎓
 
