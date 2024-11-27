@@ -15,6 +15,8 @@
 
 - ✨ Know about my [Experiences](https://soumyak4.in/Experiences) ✨
 
+- 🌐 I also love creating front-end websites for no particular reason at all, thinking about finally learning back-end. 🌐
+
 - 💬 [Contact Me](https://t.me/soumyak4) about: **Martial Arts for Body & Brain**
 
 <hr class="solid">
