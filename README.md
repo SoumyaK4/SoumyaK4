@@ -11,7 +11,7 @@
 
 - ✍🏽 [The Fallen Poet](https://www.miraquill.com/user.html?username=the_fallen_poet) ✍🏽
 
-- 🎓 Know about my [Education](https://linkedin.com/in/SoumyaK4) 🎓
+- 🎓 Know about my [Education](#EDU) 🎓
 
 - ✨ Know about my [Experiences](https://soumyak4.in/Experiences) ✨
 
@@ -28,7 +28,7 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoumyaK4&theme=dracula)|
 <hr class="solid">
 
-
+<a id=EDU></a>
 ## Main Certificates
 1. [Provisional Certificate From University - BCA (Honors)](https://raw.githubusercontent.com/SoumyaK4/Important-Docs/main/Certificates/Provisional%20Certificate%20University%20-%20BCA%20(H).jpg) : [See Results](https://github.com/SoumyaK4/Important-Docs/blob/main/Results/BCA%20Honors%20-%206%20Results.pdf)
 2. [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6QU2LWABMW5H) : [Click Here for Other Google Certificates](#Google)
