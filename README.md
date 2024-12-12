@@ -27,3 +27,6 @@
 |-----|------|------|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoumyaK4&theme=dracula)|
 <hr class="solid">
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=bb-dojo\&repo=weiqi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=bb-dojo\&repo=WeiChi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)
