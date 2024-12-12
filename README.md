@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋, I'm Soumya</h1>
-<h3 align="center">A Passionate Student/Teacher from Kolkata,India</h3>
-<h3 align="center">Teaching Martial Arts for Body & Brain</h3>
+<div align="center">
+<h1>Hi 👋, I'm Soumya <br> A Passionate Student/Teacher from Kolkata,India</h1>
+<h3>Teaching Martial Arts for Body & Brain</h3>
 <hr class="solid">
 
-- 🖥️ Currently working as a Mentor at [AIGP](https://aigp.org.in/) 🖥️
+| WHAT | WHERE |
+|---|---|
+| 🖥️ Present Work 1  | Teacher & Admin at [AIGP](https://aigp.org.in/) |
+| 🥋 Present Work 2 | Teaching Martial Arts for Body & Brain <br>at [BB Dojo](https://github.com/BB-Dojo) |
+| ⚫⚪ Learn Baduk - Weiqi - Go Game | [Go Roadmap](https://weiqi.soumyak4.in/) |
+| 🧑🏻‍💻 My Personal Website    | [SoumyaK4](https://soumyak4.in/) |
+| ✍🏽 Writing | [The Fallen Poet](https://www.miraquill.com/user.html?username=the_fallen_poet) |
+| 🎓 Academics | [Education](/Education.md) |
+| ✨ Other | [Experiences](https://soumyak4.in/Experiences) |
+| 🌐 I also love creating front-end websites <br>For no particular reason at all | Currently exploring Jekyll. |
+| 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 
-- ⚫⚪ Learn Baduk - Weiqi - Go Game : [Roadmap](https://weiqi.soumyak4.in/) ⚪⚫
+<hr class="solid">
+<h1>Organization Projects</h1>
 
-- 🧑🏻‍💻 [My Personal Website](https://soumyak4.in/) 🧑🏻‍💻
-
-- ✍🏽 [The Fallen Poet](https://www.miraquill.com/user.html?username=the_fallen_poet) ✍🏽
-
-- 🎓 Know about my [Education](/Education.md) 🎓
-
-- ✨ Know about my [Experiences](https://soumyak4.in/Experiences) ✨
-
-- 🌐 I also love creating front-end websites for no particular reason at all, thinking about finally learning back-end. 🌐
-
-- 💬 [Contact Me](https://t.me/soumyak4) about: **Martial Arts for Body & Brain**
+| BB-Dojo/weiqi | BB-Dojo/WeiChi |
+|------|------|
+| <a href="https://github.com/BB-Dojo/weiqi" target="_blank"><img src="assets/weiqi.png" alt="weiqi" /></a>  | <a href="https://github.com/BB-Dojo/WeiChi" target="_blank"><img src="assets/WeiChi.png" alt="weiqi" /></a>  |
 
 <hr class="solid">
 <h3>↓ Connect with me ↓ Help me keep my sanity through my learning journey ↓</h3>
@@ -28,5 +31,4 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoumyaK4&theme=dracula)|
 <hr class="solid">
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=bb-dojo\&repo=weiqi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=bb-dojo\&repo=WeiChi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)
+</div>
