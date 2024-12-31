@@ -18,7 +18,7 @@
 <hr class="solid">
 <h1>Organization Projects</h1>
 
-| BB-Dojo/Weiqi-Roadmap | BB-Dojo/wq.backup |
+| Weiqi Roadmap | weiqi.bak |
 |------|------|
 | <a href="https://github.com/BB-Dojo/Weiqi-Roadmap" target="_blank"><img src="assets/weiqi.png" alt="Weiqi-Roadmap" /></a>  | <a href="https://github.com/SoumyaK4/weiqi.backup" target="_blank"><img src="assets/WeiChi.png" alt="weiqi.backup" /></a>  |
 
