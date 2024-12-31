@@ -18,9 +18,9 @@
 <hr class="solid">
 <h1>Organization Projects</h1>
 
-| BB-Dojo/weiqi | BB-Dojo/WeiChi |
+| BB-Dojo/Weiqi-Roadmap | BB-Dojo/weiqi.backup |
 |------|------|
-| <a href="https://github.com/BB-Dojo/weiqi" target="_blank"><img src="assets/weiqi.png" alt="weiqi" /></a>  | <a href="https://github.com/BB-Dojo/WeiChi" target="_blank"><img src="assets/WeiChi.png" alt="weiqi" /></a>  |
+| <a href="https://github.com/BB-Dojo/Weiqi-Roadmap" target="_blank"><img src="assets/weiqi.png" alt="Weiqi-Roadmap" /></a>  | <a href="https://github.com/SoumyaK4/weiqi.backup" target="_blank"><img src="assets/WeiChi.png" alt="weiqi.backup" /></a>  |
 
 <hr class="solid">
 <h3>↓ Socials ↓</h3>
