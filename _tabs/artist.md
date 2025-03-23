@@ -1,5 +1,5 @@
 ---
-icon: fas fa-circle
+icon: fas fa-pen-fancy
 order: 4
 permalink: /Artist/
 ---

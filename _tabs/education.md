@@ -1,5 +1,5 @@
 ---
-icon: fas fa-circle
+icon: fas fa-graduation-cap
 order: 3
 permalink: /Academics/
 ---

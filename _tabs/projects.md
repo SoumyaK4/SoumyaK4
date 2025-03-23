@@ -2,6 +2,7 @@
 layout: projects
 icon: fas fa-star
 order: 1
+permalink: /Projects/
 ---
 
 #### Projects

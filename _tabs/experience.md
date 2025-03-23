@@ -1,5 +1,5 @@
 ---
-icon: fas fa-circle
+icon: fas fa-brain
 order: 2
 permalink: /Experiences/
 ---
