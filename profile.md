@@ -17,12 +17,6 @@ permalink: /
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 
 <hr>
-#### Projects
-
-| LQIP | [On Github](https://github.com/SoumyaK4/LQIP-base64) |
-| Guide / Roadmap | [Baduk - Weiqi - Go Game](https://weiqi.soumyak4.in) |
-
-<hr>
 
 <a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github fa-2x"></a>
 <a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube fa-2x"></a>
