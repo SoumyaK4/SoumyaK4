@@ -19,19 +19,13 @@
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
       <!-- home -->
-      <li class="nav-item{% if page.layout == 'cv' %}{{ " active" }}{% endif %}">
+      <li class="nav-item{% if page.layout == 'profile' %}{{ " active" }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>PROFILE</span>
         </a>
       </li>
-      <!-- blog -->
-      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-        <a href="{{ '/blog' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-blog"></i>
-          <span>HOME</span>
-        </a>
-      </li>
+
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
@@ -44,6 +38,14 @@
         </li>
         <!-- .nav-item -->
       {% endfor %}
+
+      <!-- blog -->
+      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/blog' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-blog"></i>
+          <span>BLOG</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
