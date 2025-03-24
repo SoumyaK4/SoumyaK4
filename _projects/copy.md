@@ -4,7 +4,6 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 date: 2019-08-08 11:33:00 +0800
 math: true
 mermaid: true 
-category: [Demo, Copy]
 ---
 
 ## Headings
