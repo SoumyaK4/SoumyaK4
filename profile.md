@@ -7,11 +7,13 @@ permalink: /
 ## Hi 👋, I’m Soumya, A Passionate Student/Teacher From India
 ---
 
-| 🖥️ Work 1  | Teacher & Admin at [AIGP](https://aigp.org.in/) |
-| 🥋 Work 2 | Teaching Martial Arts for Body & Brain at [BB Dojo](https://bbdojo.soumyak4.in/) |
-| ⚫⚪ Learn Baduk - Weiqi - Go Game | [Go Roadmap](https://weiqi.soumyak4.in/) |
+| 🖥️ Current Work 1 : Teacher & Admin | [Association of Indian Go Players](https://aigp.org.in/) |
+| 🥋 Current Work 2 : Teaching Martial Arts for Body & Brain | [B&B Dojo](https://bbdojo.soumyak4.in/) |
+| ⚫⚪ Learn Baduk - Weiqi - Go Game | [Weiqi Roadmap](https://weiqi.soumyak4.in/) |
+| ⚪⚫ Baduk - Weiqi - Go Game Lectures Collection | [BadukTube](https://baduktube.soumyak4.in/) |
+| ⚫⚪🤖 Telegram Tsumego Bot | [TsumeGod](https://tsumegod.soumyak4.in/) |
 | ✍🏽 Creative Work | [The Fallen Poet](/Artist) |
-| 🎓 Academics | Nothing much but check my [Formal Studies](/Academics) |
+| 🎓 Academics | [Formal Studies](/Academics) |
 | ✨ Other | [Experiences](https://soumyak4.in/Experiences) |
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 
