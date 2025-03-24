@@ -5,19 +5,18 @@ permalink: /
 ---
 
 ## Hi 👋, I’m Soumya, A Passionate Student/Teacher From India
-<hr>
+---
 
-| 🖥️ Present Work 1  | Teacher & Admin at [AIGP](https://aigp.org.in/) |
-| 🥋 Present Work 2 | Teaching Martial Arts for Body & Brain at [BB Dojo](https://bbdojo.soumyak4.in/) |
+| 🖥️ Work 1  | Teacher & Admin at [AIGP](https://aigp.org.in/) |
+| 🥋 Work 2 | Teaching Martial Arts for Body & Brain at [BB Dojo](https://bbdojo.soumyak4.in/) |
 | ⚫⚪ Learn Baduk - Weiqi - Go Game | [Go Roadmap](https://weiqi.soumyak4.in/) |
 | ✍🏽 Creative Work | [The Fallen Poet](/Artist) |
 | 🎓 Academics | Nothing much but check my [Formal Studies](/Academics) |
 | ✨ Other | [Experiences](https://soumyak4.in/Experiences) |
-| 🌐 I also love creating front-end websites and AI can't kill my hobby yet | Currently exploring [Jekyll](https://app.daily.dev/squads/jekyllrb) |
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 
-<hr>
-
+## Socials
+---
 <a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github fa-2x"></a>
 <a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube fa-2x"></a>
 <a href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram fa-2x"></a>
