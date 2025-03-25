@@ -10,7 +10,7 @@ permalink: /
 | 🖥️ Current Work 1 : Teacher & Admin | [Association of Indian Go Players](https://aigp.org.in/) |
 | 🥋 Current Work 2 : Teaching Martial Arts | [B&B Dojo](https://bbdojo.soumyak4.in/) |
 | ⚫⚪ Learn Baduk - Weiqi - Go Game | [Weiqi Roadmap](https://weiqi.soumyak4.in/) |
-| ⚪⚫ Baduk - Weiqi - Go Game Lectures Collection | [BadukTube](https://baduktube.soumyak4.in/) |
+| ⚪⚫ Go Game Lectures Collection | [BadukTube](https://baduktube.soumyak4.in/) |
 | ⚫⚪🤖 Telegram Tsumego Bot | [TsumeGod](https://tsumegod.soumyak4.in/) |
 | ✍🏽 Creative Work | [The Fallen Poet](/Artist) |
 | 🎓 Academics | [Formal Studies](/Academics) |
