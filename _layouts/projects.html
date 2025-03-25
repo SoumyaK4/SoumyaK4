@@ -6,14 +6,10 @@ refactor: true
 {% include lang.html %}
 
 {%- comment -%}
-  Filter posts from site.posts that ARE projects.
-  (i.e. front matter includes type: project)
+  Filter posts from site.posts that are project posts (i.e. front matter includes type: project)
 {%- endcomment -%}
-{% assign all_pinned = site.posts 
-    | where:"pin", "true" 
-    | where:"type", "project" %}
-{% assign all_normal = site.posts 
-    | where_exp:"item", "item.pin != true and item.hidden != true and item.type == 'project'" %}
+{% assign all_pinned = site.posts | where:"pin", "true" | where:"type", "project" %}
+{% assign all_normal = site.posts | where_exp:"item", "item.pin != true and item.hidden != true and item.type == 'project'" %}
 
 {% assign projects = all_pinned | concat: all_normal %}
 
