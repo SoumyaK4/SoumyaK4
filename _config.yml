@@ -64,8 +64,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  projects:
-    output: true
 
 defaults:
   - scope:
@@ -77,13 +75,6 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /blog/:title/
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: post
-      toc: true
-      permalink: /project/:title/
   - scope:
       path: _drafts
     values:
@@ -120,7 +111,6 @@ exclude:
 
 jekyll-archives:
   enabled: [categories, tags]
-  collections: [posts, projects]
   layouts:
     category: category
     tag: tag
