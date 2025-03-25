@@ -120,7 +120,7 @@ exclude:
 
 jekyll-archives:
   enabled: [categories, tags]
-  collections: [projects]
+  collections: [posts, projects]
   layouts:
     category: category
     tag: tag
