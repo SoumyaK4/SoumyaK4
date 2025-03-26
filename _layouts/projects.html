@@ -8,7 +8,7 @@ refactor: true
 {%- comment -%}
   Filter posts from site.posts that are project posts (i.e. front matter includes type: project)
 {%- endcomment -%}
-{% assign all_pinned = site.posts | where:"pin", "true" | where:"type", "project" %}
+{% assign all_pinned = site.posts | where:"pin", "true" | where:"type", "project" | sort: 'date' %}
 {% assign all_normal = site.posts | where_exp:"item", "item.pin != true and item.hidden != true and item.type == 'project'" %}
 
 {% assign projects = all_pinned | concat: all_normal %}
@@ -54,6 +54,12 @@ refactor: true
                   </span>
                 {% endif %}
               </div>
+              {% if post.pin %}
+                <div class="pin ms-1">
+                  <i class="fas fa-thumbtack fa-fw"></i>
+                  <span>{{ site.data.locales[lang].post.pin_prompt }}</span>
+                </div>
+              {% endif %}
             </div>
             <!-- .post-meta -->
           </div>

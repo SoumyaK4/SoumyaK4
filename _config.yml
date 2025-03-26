@@ -33,17 +33,15 @@ pageviews:
 theme_mode: dark # [light | dark]
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/Logo.png"
+avatar: "/assets/img/Logo.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "/assets/images/OG.png" # string, local or CORS resources
+social_preview_image: "/assets/img/OG.png" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 future: true
-
-# paginate: 30 # The number of posts to show on each page
 
 # ------------ The following options are not recommended to be modified ------------------
 

@@ -13,15 +13,6 @@ refactor: true
 
 {% assign blog_posts = all_pinned | concat: all_normal %}
 
-<!-- Pagination logic (if you use paginator) can remain the same or be adjusted as needed -->
-{% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign visible_end = visible_start | plus: paginator.per_page %}
-
-{%- comment -%}
-  Here you could implement specific pagination logic similar to your original code.
-  For simplicity, we’ll assume blog_posts are already paginated via paginator.posts.
-{%- endcomment -%}
-
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in blog_posts %}
     <article class="card-wrapper card">
