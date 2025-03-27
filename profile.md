@@ -30,7 +30,7 @@ permalink: /
 | ✨ Achievements | [Experiences](/Experiences) |
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 | 📮 Post Archives | [Timeline](/Timeline) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) |
 
  ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
 
