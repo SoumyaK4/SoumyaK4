@@ -10,6 +10,7 @@
 ## Personal Works
 ---
 
+|--- |--- |
 | 🖥️ I love creating websites | Jekyll & Flask |
 | ⚫⚪ Learn Baduk - Weiqi - Go Game | [Weiqi Roadmap](https://weiqi.soumyak4.in/) |
 | ⚪⚫ Go Game Lectures Collection | [BadukTube](https://baduktube.soumyak4.in/) |
@@ -20,6 +21,7 @@
 ## Other Stuff
 ---
 
+|--- |--- |
 | 🎓 Academics | [Formal Studies](/Academics) |
 | ✨ Achievements | [Experiences](/Experiences) |
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
