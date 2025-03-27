@@ -30,8 +30,11 @@ permalink: /
 | ✨ Achievements | [Experiences](/Experiences) |
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 | 📮 Post Archives | [Timeline](/Timeline) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) |
 
-## Socials
+ ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
+
+### Socials
 ---
 Main: 
 <a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github"></a>
@@ -52,5 +55,11 @@ Don't really use:
 <a href="https://x.com/SoumyaK4_" target="_blank" class="fab fa-twitter"></a>
 <a href="https://www.facebook.com/SoumyaK4" target="_blank" class="fab fa-facebook"></a>
 <br>
+
 Games: 
-<a href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas fa-t"></a>
+<a href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas">Torn</a> &ensp; | &ensp;
+<a href="https://politicsandwar.com/nation/id=626478" target="_blank" class="fas">Politics & War</a> &ensp; | &ensp;
+<a href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
+<a href="https://web.idle-mmo.com/@ShadowKC" target="_blank" class="fas">IMMO</a> 
+<a href="https://politicsandwar.com/nation/id=626478" target="_blank" class="fas"></a>
+<a href="https://politicsandwar.com/nation/id=626478" target="_blank" class="fas"></a>
