@@ -17,10 +17,11 @@ permalink: /
 ---
 
 | 🖥️ I love creating websites | Jekyll & Flask |
-| ⚫⚪ Learn Baduk - Weiqi - Go Game | [Weiqi Roadmap](https://weiqi.soumyak4.in/) |
+| 👀 Learn Baduk - Weiqi - Go Game | [Weiqi Roadmap](https://weiqi.soumyak4.in/) |
 | ⚪⚫ Go Game Lectures Collection | [BadukTube](https://baduktube.soumyak4.in/) |
 | 🤖 Telegram Tsumego Bot | [TsumeGod](https://tsumegod.soumyak4.in/) |
 | 🇻🇳 Vietnam Go | [VietGo](https://viet-go.soumyak4.in/)|
+| 👀 Online SGF Editor | [GoSGF](https://sgf.soumyak4.in/) |
 | ✍🏽 Creative Work | [The Fallen Poet](/Artist) |
 
 ## Other Stuff
