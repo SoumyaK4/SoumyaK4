@@ -3,7 +3,7 @@ title: Random Bunch
 description: Just a list of domains & subdomains I have
 date: 2023-02-17 00:00:00 +0530
 category: [Projects]
-tag: [Jekyll]
+tag: [Jekyll, Flask]
 type: project 
 permalink: /project/rs/
 ---

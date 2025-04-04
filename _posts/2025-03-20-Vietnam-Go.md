@@ -10,3 +10,8 @@ permalink: /project/Vietnam-Go/
 ---
 
 ## Changelog
+
+### v0.4.1_alpha - 27 March 2025
+
+1. Fixed Database errors(Probably)
+2. Fixed Glicko2 changes(probably)
