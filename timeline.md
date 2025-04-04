@@ -1,5 +1,5 @@
 ---
 layout: archives
 title: Timeline
-permalink: /Timeline/
+permalink: /Archives/
 ---

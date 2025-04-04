@@ -4,41 +4,73 @@ order: 2
 permalink: /Experiences/
 ---
 
-## My Experiences with different Martial Arts
+## This page is more like a timeline of my life's events
 <hr>
 
-### Martial Arts for the Body
-<hr>
+## 2025
 
-⚡ **Practicing/Teaching Wing Chun Kung Fu since 2016 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>**  
+1. **2 February** - Coaching Go Trainers for an organization.
+2. **17 February** - Hosting the 2nd Indian Online <a href="https://leago.gg/event/mojchja" target="_blank">Quarterly Go Tournamnet</a>.
+3. **27 April** - Co-hosting <a href="https://aigp.org.in/2025/04/01/indo-malaysian-friendship-cup.html" target="_blank">Indo-Malaysian Friendship Go Cup</a>, the first Online International Go Tournament by India.
 
-⚡ **Practicing FMA(Filipino Martial Arts) - Kali/Arnis/Escrima/Panantukan/Dumog since 2017** 
+## 2024
 
-⚡ **Practicing/Teaching WSL Ving Tsun Kung Fu since 2018 @ <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>** 
+1. **February** - Started practicing Askal Hybrid Balintawak.
+2. **4 May** - Started Training Individuals to become Go/Weiqi/Baduk Trainers. 
+3. **June** - Stopped accepting new martial arts students, to focus more time on spreading Go/Baduk/Weiqi in India.
+4. **15-21 July** - Represented India at the <a href="https://aigp.org.in/2024/06/28/asian-weiqi-championship-2024-invitation.html" target="_blank">AWC</a> hosted by CWA(Chinese Weiqi Association).
+5. **8 August** - Hosted India's first online Quarterly Go Tournament
 
-⚡ **Practicing TaiChi(Professor Cheng's Yang Style) since 2020** 
+## 2023
 
-⚡ **Practicing FMA - Askal Hybrid Balintawak since 2024** 
+1. **18-19 February** - Hosted a 2 days long Go/Baduk/Weiqi Workshop & Tournament in Kurla(Mumbai).
+2. **April** - Represented India at the <a href="https://aigp.org.in/2023/07/26/indian-representatives-2023.html" target="_blank">AWC(Asian Weiqi Championship)</a>.
+3. **26 August - 2 September** - Represented India at the <a href="https://kpmc.kbaduk.or.kr/us/2023/player" target="_blank">18th KPMC(Korea Prime Minister Cup Baduk Championship)</a>
+   - Here's the <a href="https://youtu.be/RzcPt91i4lQ?si=c5BY2TnZJ3_igfZP" target="_blank">Official Video</a>.
+4. **11-12 December** - Co-hosted a Go/Baduk/Weiqi workshop in Bihar's Doon Public School.
 
-<hr>
+## 2022
 
-### Martial Arts for the Brain
-<hr>
+1. **April** - Started Teaching Go/Weiqi/Baduk to DDKs and SDKs.
+2. **September** - Graduated from University.
+3. **October - December** - Studying Data Science.
 
-⚡ **Used to play chess as a child till 2018** 
+## 2021
 
-⚡ **Started Playing Weiqi/Baduk since 2018** 
+1. **February** - First freelance work with WordPress.
+2. **May** - Played(Lost horribly) my first 19x19 Go Game.
+3. **November** - Started Teaching Go/Weiqi/Baduk to Beginners.
+4. 
 
-⚡ **Started Teaching Weiqi/Baduk to Beginners since 2021** 
+## 2020
 
-⚡ **Started Teaching Weiqi/Baduk to DDKs and SDKs since 2022** 
+1. **April** - Started Practicing TaiChi(Professor Cheng's Yang Style).
 
-⚡ **Represented India at the <a href="https://kpmc.kbaduk.or.kr/us/2023/player" target="_blank">18th KPMC(Korea Prime Minister Cup Baduk Championship)</a> in 2023, Here's the <a href="https://youtu.be/RzcPt91i4lQ?si=c5BY2TnZJ3_igfZP" target="_blank">Official Video</a>** 
+## 2019
 
-⚡ **Represented India at the <a href="https://aigp.org.in/2023/07/26/indian-representatives-2023.html" target="_blank">AWC(Asian Weiqi Championship)</a> in 2023** 
+1. Completed Higher Secondary.
+2. **July** - Started University : Bachelor's in Computer Applications.
 
-⚡ **Started Training Individuals to become Weiqi/Baduk Instructors since 2024** 
+## 2018
 
-⚡ **Represented India at the Asian Weiqi Championship by Chinese Weiqi Association in 2024** 
+1. **January** - Saw **Hikaru no Go** and liked **Go** so much that I stopped playing **Chess**.
+2. **November** - After being certified by **Wong Shun Leung's(Bruce Lee's Teacher)** Son **Wong Hong Chung**, Started teaching WSLVT at <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>.
 
-<!-- <a rel="me" href="https://mastodon.social/@SoumyaK4">Mastodon</a> -->
+## 2017
+
+1. **January** - Started working as a freelance front-end Web-Dev.
+2. **May** - Resumed Higher Secondary Studies.
+3. **September** - Switched my Wing Chun to WSLVT(Wong Shun Leung Ving Tsun Kung Fu).
+
+## 2016
+
+1. **July** - Started learning programming.
+2. **2nd October** - Started teaching Wing Chun Kung Fu at <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>.
+3. **December** - Started learning FMA(Filipino Martial Arts) & KABOSI(Kali-Boxing-Silat Blend)
+   - FMA: Kali/Arnis/Escrima/Panantukan/Pananjakman/Dumog.
+
+## 2014 
+
+1. Dropped out of high school for personal reasons.
+2. Indulged myself with numerous kinds of art.
+3. Started learning Martial Arts.
