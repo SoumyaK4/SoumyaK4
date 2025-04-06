@@ -19,7 +19,6 @@
 | 🤖 Telegram Tsumego Bot           | [TsumeGod](https://tsumegod.soumyak4.in/)   |
 | 🇻🇳 Vietnam Go                     | [VietGo](https://viet-go.soumyak4.in/)      |
 | 👀 Online SGF Editor              | [GoSGF](https://sgf.soumyak4.in/)           |
-| <!--                             | ✍🏽 Creative Work                             | [The Fallen Poet](/Artist) | --> |
 
 ## Other Stuff
 ---
