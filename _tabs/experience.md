@@ -7,6 +7,23 @@ permalink: /Experiences/
 ## This page is more like a timeline of my life's events
 <hr>
 
+<details>
+<summary><h2 style="display: inline;">ToC</h2></summary>
+<div markdown="1">
+1. [2025](#2025)
+2. [2024](#2024)
+3. [2023](#2023)
+4. [2022](#2022)
+5. [2021](#2021)
+6. [2020](#2020)
+7. [2019](#2019)
+8. [2018](#2018)
+9. [2017](#2017)
+10. [2016](#2016)
+</div> 
+</details>
+<hr>
+
 ## 2025
 
 1. **2 February** - Coaching Go Trainers for an organization.
@@ -45,6 +62,7 @@ permalink: /Experiences/
 ## 2020
 
 1. **April** - Started Practicing TaiChi(Professor Cheng's Yang Style).
+2. **June** - Tried Music Production using DAW.
 
 ## 2019
 
@@ -54,7 +72,8 @@ permalink: /Experiences/
 ## 2018
 
 1. **January** - Saw **Hikaru no Go** and liked **Go** so much that I stopped playing **Chess**.
-2. **November** - After being certified by **Wong Shun Leung's(Bruce Lee's Teacher)** Son **Wong Hong Chung**, Started teaching WSLVT at <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>.
+2. **September** - Tried Digital Art.
+3. **November** - After being certified by **Wong Shun Leung's(Bruce Lee's Teacher)** Son **Wong Hong Chung**, Started teaching WSLVT at <a href="https://www.google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta" target="_blank">Wing Chun Palta</a>.
 
 ## 2017
 
@@ -72,5 +91,10 @@ permalink: /Experiences/
 ## 2014 
 
 1. Dropped out of high school for personal reasons.
-2. Indulged myself with numerous kinds of art.
+2. Indulged myself with numerous kinds of art once again.
 3. Started learning Martial Arts.
+
+## 2012
+
+1. Stopped Practicing Hindustani Classical Vocal Training
+2. Stopped teaching Fine Arts
