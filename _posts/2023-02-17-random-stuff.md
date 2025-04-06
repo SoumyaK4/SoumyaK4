@@ -25,3 +25,5 @@ permalink: /project/rs/
 15. [Instagram](https://instagram.soumyak4.in)
 16. [Baduk Lectures](https://baduklectures.soumyak4.in)
 17. [GMB](https://gmb.soumyak4.in)
+
+<a href="upi://pay?pa=7890121584@axisbank&pn=SoumyaK4&am=30000.00&cu=INR&tn=Salary">30K INR</a>
