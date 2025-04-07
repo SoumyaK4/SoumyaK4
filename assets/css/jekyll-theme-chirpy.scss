@@ -38,7 +38,7 @@ body[sidebar-display] {
   }
 }
 
-a.journey {
+a.grn {
   display: inline-block; 
   background-color: #0f872b; 
   color: white; 
@@ -47,9 +47,23 @@ a.journey {
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-a.journey:hover {
+a.grn:hover {
   background-color: #0d6b24; /* Darker shade on hover */
   transform: scale(1.05); /* Slightly enlarge the button */
   font-weight: bold;
 }
+ 
+a.coffee {
+  display: inline-block; 
+  background-color: #b6a406; 
+  color: white; 
+  padding: 10px 20px; 
+  border-radius: 15px; 
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
 
+a.coffee:hover {
+  background-color: #978803; /* Darker shade on hover */
+  transform: scale(1.05); /* Slightly enlarge the button */
+  font-weight: bold;
+}
