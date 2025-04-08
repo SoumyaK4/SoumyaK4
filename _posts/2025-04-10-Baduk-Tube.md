@@ -12,7 +12,7 @@ permalink: /project/Baduk-Tube/
 
 ### v1.0 - 10 April 2025
 
-1. 500+ Videos
+1. 600+ Videos
 
 ### v0.9.2 - 4 April 2025
 
@@ -37,3 +37,7 @@ permalink: /project/Baduk-Tube/
 1. Basic Production Ready
 2. Search
 3. Collections
+
+### v0.3 - 9 March 2025
+
+1. Basic Prototype ready

@@ -15,3 +15,4 @@ permalink: /project/Vietnam-Go/
 
 1. Fixed Database errors(Probably)
 2. Fixed Glicko2 changes(probably)
+3. Basic Usable Prototype
