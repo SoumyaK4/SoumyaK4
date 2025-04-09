@@ -2,13 +2,16 @@
 title: Introducing BadukTube
 description: Youtube but for Baduk - Weiqi - Go Game only
 date: 2025-04-10 00:00:00 +0530
+image:
+ path: /assets/img/baduktube.webp
+ lqip: data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASoUAAsAPzmEuVOvKKWisAgB4CcJbACdL14T/Z/8B5RznLO3DRLSD+gqAAD+pTvALsE5Aze3BBPtWiw3EhyWB2PgMBthd+nSsToCznGqn7eFTTskaQ73Dt7yTYyh1bG1OdiLU1oAAAA=
 type: project
 category: [Let's Go!!!!, BadukTube]
 tag: [Go, Baduk, Weiqi, BadukTube, Lectures, Collection, Directory, Database, Resources]
-permalink: /project/Baduk-Tube/
+permalink: /project/BadukTube/
 ---
 
-## Changelog
+## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
 ### v1.0 - 10 April 2025
 

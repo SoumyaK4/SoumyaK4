@@ -6,9 +6,12 @@ type: project
 category: [Let's Go!!!!, Weiqi Roadmap]
 tag: [Go, Baduk, Weiqi, Guide, Roadmap, Resources]
 permalink: /project/Weiqi-Roadmap/
+image:
+ path: /assets/img/roadmap.webp
+ lqip: data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoUAAsAPzmGuVOvKSWisAgB4CcJYgCw7CIHjdheu9+YMN0wAAD9n5p/paiWQEU8KwbiX+UOv3DkEFq0xDtZdLE07pGB+i3j16uWxdugR7TSho78HT4AAA==
 ---
 
-## Changelog
+## Changelog for [Weiqi Roadmap](https://weiqi.soumyak4.in)
 
 ### Released v4 - Apr 10 2025
 
