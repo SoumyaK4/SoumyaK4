@@ -16,7 +16,8 @@ permalink: /project/BadukTube/
 ### v1.0.0 - 10 April 2025
 
 1. 600+ Videos
-2. fix: manifest
+2. fix: manifest for installing app
+3. fix: duration in lecture card
 
 ### v0.9.2 - 4 April 2025
 
