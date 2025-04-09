@@ -13,12 +13,20 @@ image:
 
 ## Changelog for [Weiqi Roadmap](https://weiqi.soumyak4.in)
 
+### v5 - Soon™
+
+1. Content update for main roadmap
+2. Improved guidance in main roadmap
+
 ### Released v4 - Apr 10 2025
 
 1. General Maintenance 
-2. Added BadukTube
-3. Added About
-4. fix: manifest
+2. Updated broken links(mostly)
+3. added new resources
+4. Added BadukTube
+5. Added About
+6. fix: manifest
+7. Overall update to the main Roadmap Coming Soon™
 
 ### Don't remember past versions much
 
