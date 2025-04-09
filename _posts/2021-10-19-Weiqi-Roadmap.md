@@ -18,6 +18,7 @@ image:
 1. General Maintenance 
 2. Added BadukTube
 3. Added About
+4. fix: manifest
 
 ### Don't remember past versions much
 

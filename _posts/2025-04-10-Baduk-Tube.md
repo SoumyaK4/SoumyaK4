@@ -13,9 +13,10 @@ permalink: /project/BadukTube/
 
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
-### v1.0 - 10 April 2025
+### v1.0.0 - 10 April 2025
 
 1. 600+ Videos
+2. fix: manifest
 
 ### v0.9.2 - 4 April 2025
 
