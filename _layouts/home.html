@@ -6,15 +6,15 @@ refactor: true
 {% include lang.html %}
 
 {%- comment -%}
-  Filter posts from site.posts that are blog posts (i.e. front matter includes type: blog)
+  Filter posts from site.posts that are project posts (i.e. front matter includes type: project)
 {%- endcomment -%}
-{% assign all_pinned = site.posts | where:"pin", "true" | where:"type", "blog" %}
-{% assign all_normal = site.posts | where_exp:"item", "item.pin != true and item.hidden != true and item.type == 'blog'" %}
+{% assign all_pinned = site.posts | where:"pin", "true" | where:"type", "project" | sort: 'date' %}
+{% assign all_normal = site.posts | where_exp:"item", "item.pin != true and item.hidden != true and item.type == 'project'" %}
 
-{% assign blog_posts = all_pinned | concat: all_normal %}
+{% assign projects = all_pinned | concat: all_normal %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
-  {% for post in blog_posts %}
+  {% for post in projects %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = "12" %}
