@@ -18,6 +18,11 @@ image:
 1. Content update for main roadmap
 2. Improved guidance in main roadmap
 
+### v4.1
+
+1. New Resources
+2. Updates for 25-4 Kyu
+
 ### Released v4 - Apr 10 2025
 
 1. General Maintenance 
