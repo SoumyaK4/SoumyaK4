@@ -10,18 +10,17 @@ permalink: /
 ## Current Work
 ---
 
-| ⚫⚪ Current Work 1 : Teacher & Admin | [Association of Indian Go Players](https://aigp.org.in/) |
-| 🥋 Current Work 2 : Teaching Martial Arts | [Body & Brain Dojo](/project/B&B-Dojo) |
+| ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) |  Teacher & Admin |
+| 🥋 [Body & Brain Dojo](/project/B&B-Dojo) | Teaching Martial Arts | 
 
 ## Personal Works
 ---
 
-| 🖥️ I love creating websites | Jekyll & Flask |
-| 👀 Learn Baduk - Weiqi - Go Game | [Weiqi Roadmap](https://weiqi.soumyak4.in/) |
-| ⚪⚫ Go Game Lectures Collection | [BadukTube](https://baduktube.soumyak4.in/) |
-| 🤖 Telegram Tsumego Bot | [TsumeGod](https://tsumegod.soumyak4.in/) |
-| 🇻🇳 Vietnam Go | [VietGo](https://viet-go.soumyak4.in/)|
-| 👀 Online SGF Editor | [GoSGF](https://sgf.soumyak4.in/) |
+| 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | Learn Baduk - Weiqi - Go Game |
+| ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | Go Game Lectures Collection |
+| 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
+| 🇻🇳 [VietGo](https://viet-go.soumyak4.in/)| Vietnam Go |
+| 👀 [GoSGF](https://sgf.soumyak4.in/) | Online SGF Editor |
 
 ## Other Stuff
 ---
@@ -34,17 +33,17 @@ permalink: /
 
  ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
 
-### Socials
+### Socials n Stuff
 ---
 Main: 
-<a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github"></a>
-<a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube"></a>
-<a href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram"></a>
-<a href="https://twitch.tv/SoumyaK4" target="_blank" class="fab fa-twitch"></a>
-<a href="https://t.me/SoumyaK4" target="_blank" class="fab fa-telegram"></a>
-<a href="https://en.wikipedia.org/wiki/User:SoumyaK4" target="_blank" class="fab fa-wikipedia-w"></a>
+<a href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram fa-2x"></a>
+<a href="https://twitch.tv/SoumyaK4" target="_blank" class="fab fa-twitch  fa-2x"></a>
+<a href="https://t.me/SoumyaK4" target="_blank" class="fab fa-telegram  fa-2x"></a>
+<a href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube  fa-2x"></a>
+<a href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github  fa-2x"></a>
 <br>
 Don't really use: 
+<a href="https://en.wikipedia.org/wiki/User:SoumyaK4" target="_blank" class="fab fa-wikipedia-w"></a>
 <a rel="me" href="https://mastodon.social/@SoumyaK4" target="_blank" class="fab fa-mastodon"></a>
 <a href="https://bsky.app/profile/soumyak4.bsky.social" target="_blank" class="fab fa-bluesky"></a>
 <a href="https://www.linkedin.com/in/soumyak4/" target="_blank" class="fab fa-linkedin"></a>

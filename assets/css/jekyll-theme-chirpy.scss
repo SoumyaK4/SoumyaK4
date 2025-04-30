@@ -67,3 +67,18 @@ a.coffee:hover {
   transform: scale(1.05); /* Slightly enlarge the button */
   font-weight: bold;
 }
+
+a.twitch {
+  display: inline-block; 
+  background-color: #6130bb; 
+  color: white; 
+  padding: 10px 20px; 
+  border-radius: 15px; 
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+a.twitch:hover {
+  background-color: #aa95cf; /* lighter shade on hover */
+  transform: scale(1.05); /* Slightly enlarge the button */
+  font-weight: bold;
+}
