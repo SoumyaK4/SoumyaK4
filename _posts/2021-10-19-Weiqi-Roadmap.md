@@ -11,6 +11,12 @@ image:
  lqip: data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoUAAsAPzmGuVOvKSWisAgB4CcJYgCw7CIHjdheu9+YMN0wAAD9n5p/paiWQEU8KwbiX+UOv3DkEFq0xDtZdLE07pGB+i3j16uWxdugR7TSho78HT4AAA==
 ---
 
+
+<hr>
+<a href="https://buymeacoffee.com/soumyak4" class="btn coffee fas fa-mug-hot"> Buy Me a Coffee</a>
+
+---
+
 ## Changelog for [Weiqi Roadmap](https://weiqi.soumyak4.in)
 
 ### v5 - Soon™

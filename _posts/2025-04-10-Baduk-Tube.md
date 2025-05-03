@@ -11,6 +11,11 @@ tag: [Go, Baduk, Weiqi, BadukTube, Lectures, Collection, Directory, Database, Re
 permalink: /project/BadukTube/
 ---
 
+<hr>
+<a href="https://buymeacoffee.com/soumyak4" class="btn coffee fas fa-mug-hot"> Buy Me a Coffee</a>
+
+---
+
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
 ### v1.0.0 - 10 April 2025
