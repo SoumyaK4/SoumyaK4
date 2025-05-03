@@ -89,3 +89,10 @@ a.twitch:hover {
     padding-bottom: 100% !important;
   }
 }
+
+.twitch-chat-iframe {
+  width: 100%;
+  height: 80vh;      /* fill full viewport height */
+  border: 0;
+  display: block;
+}
