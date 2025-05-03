@@ -82,3 +82,10 @@ a.twitch:hover {
   transform: scale(1.05); /* Slightly enlarge the button */
   font-weight: bold;
 }
+
+/* Twitch chat mobile height adjustment */
+@media screen and (max-width: 768px) {
+  .twitch-chat-container {
+    padding-bottom: 100% !important;
+  }
+}
