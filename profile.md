@@ -20,6 +20,7 @@ permalink: /
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | Go Game Lectures Collection |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
 | 🇻🇳 [VietGo](https://viet-go.soumyak4.in/)| Vietnam Go |
+| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey)| Change Board Looks |
 | 👀 [GoSGF](https://sgf.soumyak4.in/) | Online SGF Editor |
 
 ## Other Stuff

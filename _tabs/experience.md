@@ -29,6 +29,7 @@ permalink: /Experiences/
 1. **2 February** - Coaching Go Trainers for an organization.
 2. **17 February** - Hosting the 2nd Indian Online <a href="https://leago.gg/event/mojchja" target="_blank">Quarterly Go Tournamnet</a>.
 3. **27 April** - Co-hosting <a href="https://aigp.org.in/2025/04/01/indo-malaysian-friendship-cup.html" target="_blank">Indo-Malaysian Friendship Go Cup</a>, the first Online International Go Tournament by India.
+4. **21-25 May** - Represented India in 3rd Asian Amateur Weiqi Championship
 
 ## 2024
 
