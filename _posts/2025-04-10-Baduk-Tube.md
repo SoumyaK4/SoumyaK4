@@ -12,7 +12,7 @@ permalink: /project/BadukTube/
 ---
 
 <hr>
-<a href="/blog/Support/" class="btn grn fas fa-money-bill"> Support</a> 
+<a href="/Support/" class="btn grn fas fa-money-bill"> Support</a> 
 
 ---
 
