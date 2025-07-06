@@ -18,10 +18,14 @@ permalink: /project/BadukTube/
 
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
+### v1.0.2 - 7 July 2025
+
+1. 50 new vids
+
 ### v1.0.2 - 3 July 2025
 
 1. Repo is public now thanks to [raylu](https://github.com/raylu), check his amazing [Go Project](https://sgf.raylu.net/)
-2. Around 15 new vids
+2. Around 15 new vids, 9 from EGF Academy thanks to [Godeon](https://twitch.tv/godeoon)
 
 ### v1.0.1 - 22 June 2025
 
