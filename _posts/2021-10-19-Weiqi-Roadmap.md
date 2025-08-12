@@ -24,7 +24,13 @@ image:
 1. Content update for main roadmap
 2. Improved guidance in main roadmap
 
-### v4.1
+### v4.1.3 - August 12 2025
+
+1. New Resources. 
+2. Added few books.
+3. Minor updates to the main roadmap
+
+### v4.1 - June 2025
 
 1. New Resources
 2. Updates for 25-4 Kyu
