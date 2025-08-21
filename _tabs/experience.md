@@ -30,6 +30,7 @@ permalink: /Experiences/
 2. **17 February** - Hosting the 2nd Indian Online <a href="https://leago.gg/event/mojchja" target="_blank">Quarterly Go Tournamnet</a>.
 3. **27 April** - Co-hosting <a href="https://aigp.org.in/2025/04/01/indo-malaysian-friendship-cup.html" target="_blank">Indo-Malaysian Friendship Go Cup</a>, the first Online International Go Tournament by India.
 4. **21-25 May** - Represented India in 3rd Asian Amateur Weiqi Championship
+5. **7 September - 14 September** - Represented India at the <a href="https://kpmc.kbaduk.or.kr/us/2025/player" target="_blank">20th KPMC(Korea Prime Minister Cup Baduk Championship)</a>
 
 ## 2024
 
