@@ -21,6 +21,7 @@ permalink: /
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
 | 🇻🇳 [VietGo](https://viet-go.soumyak4.in/)| Vietnam Go |
 | ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey)| Change Board Looks |
+| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | Rhyming Game |
 | 👀 [GoSGF](https://sgf.soumyak4.in/) | Online SGF Editor |
 
 ## Other Stuff
@@ -29,8 +30,9 @@ permalink: /
 | 🎓 Academics | [Formal Studies](/Academics) |
 | ✨ Achievements | [Experiences](/Experiences) |
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
-| 📮 Post | [Archives](/Archives) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) |
+| 📮 Posts | [Archives](/Archives) |
+| 👾 Streaming | [Twitch](https://twitch.tv/SoumyaK4) |
+<!-- | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) | -->
 
  ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
 
@@ -60,4 +62,3 @@ Games:
 <a rel="me" href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas">Torn</a> &ensp; | &ensp;
 <a rel="me" href="https://politicsandwar.com/nation/id=626478" target="_blank" class="fas">Politics & War</a> &ensp; | &ensp;
 <a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
-<a rel="me" href="https://web.idle-mmo.com/@ShadowKC" target="_blank" class="fas">IMMO</a> 
