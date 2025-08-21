@@ -32,7 +32,6 @@ permalink: /
 | 💬 For Queries | [Contact Me](https://t.me/soumyak4) |
 | 📮 Posts | [Archives](/Archives) |
 | 👾 Streaming | [Twitch](https://twitch.tv/SoumyaK4) |
-<!-- | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) | -->
 
  ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
 
