@@ -46,7 +46,7 @@ Main:
 <a rel="me" href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube  fa-2x"></a>
 <a rel="me" href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github  fa-2x"></a>
 <a rel="me" href="https://www.reddit.com/user/SoumyaK4/" target="_blank" class="fab fa-reddit fa-2x"></a>
-<a rel="me" href="https://forums.online-go.com/u/soumyak4/summary" target="_blank"><img src="https://ogs-forums.s3.amazonaws.com/original/2X/2/2512899f61b1f5bc8e6cc997cb4a1282cd23ab95.png"></a>
+<a rel="me" href="https://forums.online-go.com/u/soumyak4/summary" target="_blank"><img src="https://ogs-forums.s3.amazonaws.com/original/2X/2/2512899f61b1f5bc8e6cc997cb4a1282cd23ab95.png" alt="Online Go Forum"></a>
 
 <br>
 <!--
