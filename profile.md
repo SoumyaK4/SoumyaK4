@@ -19,7 +19,8 @@ permalink: /
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | Learn Baduk - Weiqi - Go Game |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | Go Game Lectures Collection |
 | ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey)| Change Board Page's UI/UX |
-| ⚪⚫ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | BadukTV + JeffSounds |
+| ⚪⚫ [Go Timer](https://gotimer.soumyak4.in)| A timer you can use in offline games |
+| ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | BadukTV + JeffSounds |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
 | 🇻🇳 [VietGo](https://viet-go.soumyak4.in/)| Vietnam Go |
 | 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | Rhyming Game |
@@ -63,7 +64,7 @@ Don't really use:
 <br>
 -->
 
-Games: 
+<!-- Games: 
 <a rel="me" href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas">Torn</a> &ensp; | &ensp;
 <a rel="me" href="https://politicsandwar.com/nation/id=626478" target="_blank" class="fas">Politics & War</a> &ensp; | &ensp;
-<a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
+<a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp; -->
