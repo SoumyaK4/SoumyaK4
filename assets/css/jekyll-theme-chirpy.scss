@@ -39,7 +39,7 @@ body[sidebar-display] {
 }
 
 a.grn {
-  display: inline-block; 
+  display: inline !important;
   background-color: #0f872b; 
   color: white; 
   padding: 10px 20px; 
@@ -54,7 +54,7 @@ a.grn:hover {
 }
  
 a.coffee {
-  display: inline-block; 
+  display: inline !important;
   background-color: #b6a406; 
   color: white; 
   padding: 10px 20px; 

@@ -4,8 +4,11 @@ timezone: Asia/Calcutta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+
 title: SoumyaK4 # the main title
+
 tagline: Jack of All Trades # it will display as the subtitle
+
 description: >- # used by seo meta and the atom feed
   Martial Arts for Body & Brain
 
@@ -14,7 +17,7 @@ url: "https://soumyak4.in"
 social:
   name: SoumyaK4
   links:
-    - https://soumyak4.in 
+    - https://soumyak4.in
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -53,6 +56,10 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
+paginate: 22
+
+# The base URL of your site
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -80,8 +87,6 @@ defaults:
     values:
       layout: post
       toc: true # Display TOC column in posts.
-      # DO NOT modify the following parameter unless you are confident enough
-      # to update the code of all other post links in this project.
       permalink: /blog/:title/
   - scope:
       path: _drafts
