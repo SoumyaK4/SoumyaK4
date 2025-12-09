@@ -24,7 +24,11 @@ image:
 1. Content update for main roadmap
 2. Improved guidance in main roadmap
 
-### v4.1.3 - August 12 2025
+### v4.3 - Aug 29 2025
+
+1. Added Chatbot
+
+### v4.2.3 - August 12 2025
 
 1. New Resources. 
 2. Added few books.
