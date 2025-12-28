@@ -24,6 +24,14 @@ image:
 1. Content update for main roadmap
 2. Improved guidance in main roadmap
 
+### v4.5 - December 29 2025
+
+1. Huge Update for New Year
+
+### v4.4 - October 10 2025
+
+1. Minor updates overall
+
 ### v4.3 - Aug 29 2025
 
 1. Added Chatbot
