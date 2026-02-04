@@ -1,0 +1,50 @@
+backend:
+  name: github
+  repo: SoumyaK4/SoumyaK4
+
+media_folder: "assets/img/uploads"
+public_folder: "/assets/img/uploads"
+
+collections:
+
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Categories", name: "categories", widget: "list", default: ["blog"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["blog"], required: false }
+      - { label: "Type", name: "type", widget: "select", options: [{ label: Project, value: project }, { label: Blog, value: blog }]} 
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Pinned", name: "pin", widget: "boolean", default: false }
+      # - { label: "Comments", name: "comments", widget: "boolean", default: true }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # - name: "pages"
+  #   label: "Pages"
+  #   folder: "_pages"
+  #   create: true
+  #   slug: "{{slug}}"
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Permalink", name: "permalink", widget: "string" }
+  #     - { label: "Layout", name: "layout", widget: "string", default: "page" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "tabs"
+    label: "Tabs"
+    folder: "_tabs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Icon", name: "icon", widget: "string" }
+      - { label: "Order", name: "order", widget: "number" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "string", default: "page" }
+      - { label: "Body", name: "body", widget: "markdown" }
