@@ -13,7 +13,7 @@ permalink: /
 | ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) |  Teacher & Admin |
 | 🥋 [Body & Brain Dojo](/project/B&B-Dojo) | Teaching Martial Arts | 
 
-## Personal Works
+## Personal Projects
 ---
 
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | Learn Baduk - Weiqi - Go Game |
@@ -22,9 +22,16 @@ permalink: /
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in)| A timer you can use in offline games |
 | ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | BadukTV + JeffSounds |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
-| 🇻🇳 [VietGo](https://viet-go.soumyak4.in/)| Vietnam Go |
 | 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | Rhyming Game |
-| 👀 [GoSGF](https://sgf.soumyak4.in/) | Online SGF Editor |
+| 🇻🇳 [VietGo](https://viet-go.soumyak4.in/) (Discont.) | Vietnam Go |
+| 👀 [GoSGF](https://sgf.soumyak4.in/) (Discont.) | Online SGF Editor |
+
+## Contributed Projects
+---
+
+| ⚪⚫ [WeiqiHub](https://github.com/SoumyaK4/WeiqiHub) | P2P Tsumego Battles - Pattern Search |
+| ⚫⚪ [Web Katrain](https://github.com/SoumyaK4/web-katrain)| Katrain in Browser |
+
 
 ## Other Stuff
 ---
@@ -40,14 +47,16 @@ permalink: /
 
 ### Socials n Stuff
 ---
-Main: 
+
 <a rel="me" href="https://instagram.com/SoumyaK4" target="_blank" class="fab fa-instagram fa-2x"></a>
 <a rel="me" href="https://twitch.tv/SoumyaK4" target="_blank" class="fab fa-twitch  fa-2x"></a>
 <a rel="me" href="https://t.me/SoumyaK4" target="_blank" class="fab fa-telegram  fa-2x"></a>
 <a rel="me" href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube  fa-2x"></a>
-<a rel="me" href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github  fa-2x"></a>
 <a rel="me" href="https://www.reddit.com/user/SoumyaK4/" target="_blank" class="fab fa-reddit fa-2x"></a>
-<a rel="me" href="https://forums.online-go.com/u/soumyak4/summary" target="_blank" class="fas fa-2x">OGS</a>
+<a rel="me" href="https://forums.online-go.com/u/soumyak4/summary" target="_blank" class="fas fa-o fa-2x"></a>
+<a rel="me" href="https://gome.at/dashboard?egd=20462431&fox=SoumyaKK&ogs=SoumyaK4&generate-charts=true" target="_blank" class="fas fa-g fa-2x"></a>
+<a rel="me" href="https://senseis.xmp.net/?SoumyaK4" target="_blank" class="fas fa-s fa-2x"></a>
+<a rel="me" href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github  fa-2x"></a>
 
 <br>
 <!--
