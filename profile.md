@@ -29,8 +29,8 @@ permalink: /
 ## Contributed Projects
 ---
 
-| ⚪⚫ [WeiqiHub](https://github.com/SoumyaK4/WeiqiHub) | P2P Tsumego Battles - Pattern Search |
-| ⚫⚪ [Web Katrain](https://github.com/SoumyaK4/web-katrain)| Katrain in Browser |
+| ⚪⚫ [WeiqiHub](https://github.com/SoumyaK4/WeiqiHub/releases/tag/SWHub-Beta-Final-v1) | P2P Tsumego Battles - Pattern Search |
+| ⚫⚪ [Web Katrain](http://katrain.soumyak4.in/)| Katrain in Browser |
 
 
 ## Other Stuff
