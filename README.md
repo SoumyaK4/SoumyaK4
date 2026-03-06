@@ -45,4 +45,77 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 649 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                502 commits         ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+🌆 Daytime                367 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌃 Evening                634 commits         ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌙 Night                  600 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   461 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Tuesday                  285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                358 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 334 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Friday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Saturday                 192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/03/2026 10:15:49 UTC
 <!--END_SECTION:waka-->
