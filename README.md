@@ -45,38 +45,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.08%20million%20lines%20of%20code-blue?style=flat)
+```txt
+Total Time: 0 secs
 
-**🐱 My GitHub Data** 
-
-> 📦 1.8 MB Used in GitHub's Storage 
- > 
-> 🏆 651 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
-**I Mostly Code in HTML** 
-
-```text
-HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+No activity tracked
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SoumyaK4/SoumyaK4/main/assets/bar_graph.png)
-
-
- Last Updated on 06/03/2026 19:11:14 UTC
 <!--END_SECTION:waka-->
