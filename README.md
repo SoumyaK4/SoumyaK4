@@ -45,11 +45,67 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2019%20mins-blue?style=flat)
 
-```txt
-Total Time: 0 secs
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.69%20million%20lines%20of%20code-blue?style=flat)
 
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 1.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 675 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                490 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌆 Daytime                386 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+🌃 Evening                633 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌙 Night                  612 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   453 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                366 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Saturday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+
+
+ Last Updated on 07/03/2026 16:35:38 UTC
 <!--END_SECTION:waka-->
