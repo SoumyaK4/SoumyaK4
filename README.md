@@ -39,8 +39,6 @@
 | ✨ Achievements                                                                                                     | [Experiences](https://soumyak4.in/Experiences)                                                                                           |
 | 💬 For Queries                                                                                                      | [Contact Me](https://t.me/soumyak4)                                                                                   |
 | 👨🏻‍💻 Projects                                                                                                    | [Timeline](https://soumyak4.in/Projects)                                                                                                 |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaK4&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaK4&theme=github_dark) |
-| ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen)                          | ![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)                                                       |
 
 ---
 
@@ -114,3 +112,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 08/03/2026 16:50:48 UTC
 <!--END_SECTION:waka-->
+![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
+![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
