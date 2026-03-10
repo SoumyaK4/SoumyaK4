@@ -43,7 +43,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -103,17 +103,17 @@ aigp                     4 mins              ░░░░░░░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 10/03/2026 16:35:09 UTC
+ Last Updated on 10/03/2026 19:15:01 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 ![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
