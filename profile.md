@@ -13,24 +13,25 @@ permalink: /
 | ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) |  Teacher & Admin |
 | 🥋 [Body & Brain Dojo](/project/B&B-Dojo) | Teaching Martial Arts | 
 
-## Personal Projects
+## Personal Projects 
 ---
+
+### for Go/Baduk/Weiqi
 
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | Learn Baduk - Weiqi - Go Game |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | Go Game Lectures Collection |
 | ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey)| Change Board Page's UI/UX |
+| ⚪⚫ [WeiqiHub](https://github.com/SoumyaK4/WeiqiHub/releases/) - Fork | Pattern Search & a lot of other features |
+| ⚫⚪ [Web Katrain](https://github.com/SoumyaK4/web-katrain) - Contribution | Katrain in Browser |
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in)| A timer you can use in offline games |
 | ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | BadukTV + JeffSounds |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
+
+### Other Projects
+
 | 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | Rhyming Game |
 | 🇻🇳 [VietGo](https://viet-go.soumyak4.in/) (Discont.) | Vietnam Go |
 | 👀 [GoSGF](https://sgf.soumyak4.in/) (Discont.) | Online SGF Editor |
-
-## Contributed Projects
----
-
-| ⚪⚫ [WeiqiHub](https://github.com/SoumyaK4/WeiqiHub/releases/) | P2P Tsumego Battles - Pattern Search |
-| ⚫⚪ [Web Katrain](https://katrain.soumyak4.in/)| Katrain in Browser |
 
 
 ## Other Stuff
@@ -54,7 +55,7 @@ permalink: /
 <a rel="me" href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube  fa-2x"></a>
 <a rel="me" href="https://www.reddit.com/user/SoumyaK4/" target="_blank" class="fab fa-reddit fa-2x"></a>
 <a rel="me" href="https://forums.online-go.com/u/soumyak4/summary" target="_blank" class="fas fa-o fa-2x"></a>
-<a rel="me" href="https://gome.at/dashboard?egd=20462431&fox=SoumyaKK&ogs=SoumyaK4&generate-charts=true" target="_blank" class="fas fa-g fa-2x"></a>
+<a rel="me" href="https://igomely.at/dashboard?egd=20462431&fox=SoumyaKK&ogs=SoumyaK4&generate-charts=true" target="_blank" class="fas fa-g fa-2x"></a>
 <a rel="me" href="https://senseis.xmp.net/?SoumyaK4" target="_blank" class="fas fa-s fa-2x"></a>
 <a rel="me" href="https://github.com/SoumyaK4" target="_blank" class="fab fa-github  fa-2x"></a>
 
