@@ -43,7 +43,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -86,11 +86,13 @@ Sunday                   360 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████░░░░░░░░░░░░   51.06 % 
-CSS                      0 secs              ████████████░░░░░░░░░░░░░   48.94 % 
+JSON                     10 mins             ████████████████████░░░░░   80.04 % 
+HTML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🐱‍💻 Projects: 
-guess                    1 min               █████████████████████████   100.00 % 
+downSGF                  10 mins             ████████████████████░░░░░   80.04 % 
+guess                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -106,7 +108,7 @@ Max                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2026 19:50:05 UTC
+ Last Updated on 02/05/2026 19:35:32 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 ![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
