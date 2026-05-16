@@ -57,20 +57,61 @@
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                630 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌆 Daytime                599 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+🌃 Evening                794 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌙 Night                  735 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   522 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Wednesday                439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Friday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Saturday                 319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Git Config               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+
+🐱‍💻 Projects: 
+goTeach                  1 hr 3 mins         █████████████░░░░░░░░░░░░   51.38 % 
+downSGF                  37 mins             ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+OGS-Tampermonkey         19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+weiqidb                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+testHub                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Max                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Max                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 15/05/2026 20:01:54 UTC
+ Last Updated on 16/05/2026 19:40:39 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 ![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
