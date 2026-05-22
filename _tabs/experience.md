@@ -24,6 +24,10 @@ permalink: /Experiences/
 </details>
 <hr>
 
+## 2026
+
+1. **April** - Team Leader for India in 4th Asia Weiqi Championship
+
 ## 2025
 
 1. **2 February** - Coaching Go Trainers for an organization.
