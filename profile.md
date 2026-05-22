@@ -22,6 +22,7 @@ permalink: /
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | Go Game Lectures Collection |
 | ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey)| Change Board Page's UI/UX |
 | ⚪⚫ [WeiqiHub](https://github.com/SoumyaK4/WeiqiHub/releases/) - Fork | Pattern Search & a lot of other features |
+| 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track your game data to see improvements |
 | ⚫⚪ [Web Katrain](https://github.com/SoumyaK4/web-katrain) - Contribution | Katrain in Browser |
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in)| A timer you can use in offline games |
 | ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | BadukTV + JeffSounds |
