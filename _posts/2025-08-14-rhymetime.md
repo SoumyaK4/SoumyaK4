@@ -10,3 +10,5 @@ pin: true
 ## [RhymeTime](https://rhymetime.soumyak4.in)
 
 Made this on a whim, because I wanted to play a game where I could rhyme words but couldn't find anything good on the web
+
+Last Updated in June 2026 with improved UI/UX

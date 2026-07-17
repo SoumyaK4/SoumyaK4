@@ -4,32 +4,12 @@ layout: default
 
 {% include lang.html %}
 
-{% assign all_pinned = site.posts | where: 'pin', 'true' %}
-{% assign sorted_pinned = all_pinned | sort: 'date' %}
-
-{% assign posts = '' | split: '' %}
-
-<!-- Get pinned posts on current page -->
-
-{% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign visible_end = visible_start | plus: paginator.per_page %}
-
-{% if sorted_pinned.size > visible_start %}
-  {% if sorted_pinned.size > visible_end %}
-    {% assign pinned_size = paginator.per_page %}
-  {% else %}
-    {% assign pinned_size = sorted_pinned.size | minus: visible_start %}
-  {% endif %}
-
-{% for i in (visible_start..sorted_pinned.size) limit: pinned_size %}
-  {% assign posts = posts | push: sorted_pinned[i] %}
-{% endfor %}
-{% else %}
-  {% assign pinned_size = 0 %}
-{% endif %}
+{% assign all_pinned = site.posts | where: 'pin', 'true' | where: 'type', 'project' | sort: 'date' %}
+{% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true and item.type == "project"' %}
+{% assign projects = all_pinned | concat: all_normal %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
-  {% for post in posts %}
+  {% for post in projects %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}

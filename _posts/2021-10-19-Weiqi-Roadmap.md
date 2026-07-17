@@ -13,7 +13,7 @@ image:
 
 
 <hr>
-<a href="/Support/" class="btn grn fas fa-money-bill"> Support</a> 
+<a href="https://buymeacoffee.com/soumyak4" target="_blank" rel="noopener noreferrer" class="btn coffee fas fa-mug-hot"> Buy Me a Coffee</a>
 
 ---
 

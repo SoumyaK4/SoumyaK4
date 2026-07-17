@@ -4,37 +4,38 @@ title: Profile
 permalink: /
 ---
 
-## Hi 👋, I’m Soumya, A Passionate Student/Teacher From India
----
+## Hi, I’m Soumya (SoumyaK4) 👋 A Passionate Student/Teacher From India
+
+I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independent builder. I create practical learning resources and open tools that make it easier to study, play, and teach Go.
 
 ## Current Work
----
 
-| ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) |  Teacher & Admin |
-| 🥋 [Body & Brain Dojo](/project/B&B-Dojo) | Teaching Martial Arts | 
+| ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) | Webmaster, Teacher |
+| 🥋 [Body & Brain Dojo](/project/B&B-Dojo) | Martial-arts teaching and practice |
 
 ## Personal Projects 
 ---
 
-### for Go/Baduk/Weiqi
+### Go / Baduk / Weiqi
 
-| 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | Learn Baduk - Weiqi - Go Game |
-| ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | Youtube for Baduk |
-| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey)| Change Board Page's UI/UX |
-| ⚪⚫ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) - WeiqiHub Fork | With a lot of additional features |
-| 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track your game data to see improvements |
-| 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn your go games into elegant music |
-| ⚫⚪ [Web Katrain](https://github.com/SoumyaK4/web-katrain) - Contribution | Katrain in Browser |
-| ⚪⚫ [Go Timer](https://gotimer.soumyak4.in)| A timer you can use in offline games |
-| ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | BadukTV + JeffSounds |
-| ⚪⚫ [Free KataGo Guide](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | A guide to run katago on free cloud GPUs |
-| 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | Telegram Tsumego Bot |
+| 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players from beginner onward |
+| ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | A searchable collection of free Go lectures and study series |
+| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
+| 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
+| ⚪⚫ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) (WeiqiHub Fork) | Offline-first Go training with pattern search, Puzzles, SRS, and AI |
+| 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track game data and make your improvement visible |
+| 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos |
+| ⚫⚪ [Web Katrain](https://sir-teo.github.io/web-katrain/) | A contribution to bring KataTrain into the browser |
+| ⚪⚫ [Go Timer](https://gotimer.soumyak4.in) | An offline-friendly Go clock with major time-control systems |
+| ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | A BadukTV-inspired theme with JeffSounds |
+| ⚪⚫ [Free KataGo Guide](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
+| 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
 
 ### Other Projects
 
-| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | Rhyming Game |
-| 🇻🇳 [VietGo](https://viet-go.soumyak4.in/) (Discont.) | Vietnam Go |
-| 👀 [GoSGF](https://sgf.soumyak4.in/) (Discont.) | Online SGF Editor |
+| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | A web game for exploring rhyme |
+| 🇻🇳 [VietGo](https://viet-go.soumyak4.in/) *(discontinued)* | A Vietnam Go project |
+| 👀 [GoSGF](https://sgf.soumyak4.in/) *(discontinued)* | An online SGF editor |
 
 
 ## Other Stuff

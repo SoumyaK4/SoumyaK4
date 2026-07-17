@@ -1,6 +1,6 @@
 ---
 title: Introducing BadukTube
-description: Youtube but for Baduk - Weiqi - Go Game only
+description: A searchable collection of free video lectures and study series for Go/Baduk/Weiqi.
 date: 2025-04-10 00:00:00 +0530
 image:
  path: /assets/img/baduktube.webp
@@ -12,11 +12,19 @@ permalink: /project/BadukTube/
 ---
 
 <hr>
-<a href="/Support/" class="btn grn fas fa-money-bill"> Support</a> 
+<a href="https://buymeacoffee.com/soumyak4" target="_blank" rel="noopener noreferrer" class="btn coffee fas fa-mug-hot"> Buy Me a Coffee</a>
 
 ---
 
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
+
+### v1.1.0 - 10 July 2026
+
+1. 1200+ Lectures
+
+### v1.1.0 - 21 February 2026
+
+1. Some UI/UX Improvements
 
 ### v1.0.4 - 29 December 2025
 
