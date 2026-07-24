@@ -56,17 +56,17 @@
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+HTML                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 19:58:05 UTC
+ Last Updated on 24/07/2026 19:56:49 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
