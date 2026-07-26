@@ -82,18 +82,17 @@ Sunday                   356 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 12 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Dart                     10 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-JavaScript               8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C++                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-HTML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Markdown                 10 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   30.81 % 
+Dart                     10 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+C++                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+JavaScript               4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Python                   1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🐱‍💻 Projects: 
-testHub                  17 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-tmp                      16 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-GLAT 1.5.0               9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Unknown Project          39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-BLABE                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+testHub                  17 hrs 9 mins       █████████████░░░░░░░░░░░░   50.58 % 
+tmp                      16 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.38 % 
+BLABE                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +108,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:45:36 UTC
+ Last Updated on 26/07/2026 19:45:31 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
