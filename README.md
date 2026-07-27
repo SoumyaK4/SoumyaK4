@@ -39,15 +39,17 @@
 - [Contact me on Telegram](https://t.me/soumyak4) · [Buy Me a Coffee](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-443%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.6 MB Used in GitHub's Storage 
+> 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,737 Contributions in the Year 2026
+> 🏆 1,738 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,6 +97,30 @@ BLABE                    30 mins             ░░░░░░░░░░░�
 Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 30 hrs 15 mins (89.19%)
+
+✍️ 80,189 lines written by AI, 2,204 lines written by hand (97.33% AI-written)
+
+🔤 26,495,651,999 Input Tokens, 54,888,878 Output Tokens
+
+💵 $127722.24 Estimated AI Cost This Week
+
+🧠 154 AI Sessions, 664 AI Prompts
+
+GPT                      85,051 lines        █████████████████████████   99.91 % 
+Nemotron                 79 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.33% of written lines came from AI
+📚 Verbose Prompter — average 20,366 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.25% of changed lines were hand-edited
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -108,7 +134,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:45:31 UTC
+ Last Updated on 27/07/2026 20:06:51 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
