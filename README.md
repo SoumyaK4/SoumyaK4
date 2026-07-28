@@ -39,17 +39,13 @@
 - [Contact me on Telegram](https://t.me/soumyak4) · [Buy Me a Coffee](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-443%20hrs%2026%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,738 Contributions in the Year 2026
+> 🏆 1,739 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,70 +53,6 @@
  > 
 > 🔑 35 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                668 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-🌆 Daytime                719 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-🌃 Evening                1023 commits        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-🌙 Night                  1031 commits        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  522 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                604 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Thursday                 563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Sunday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 10 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Dart                     10 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-C++                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-JavaScript               4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Python                   1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-
-🐱‍💻 Projects: 
-testHub                  17 hrs 9 mins       █████████████░░░░░░░░░░░░   50.58 % 
-tmp                      16 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.38 % 
-BLABE                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 30 hrs 15 mins (89.19%)
-
-✍️ 80,189 lines written by AI, 2,204 lines written by hand (97.33% AI-written)
-
-🔤 26,495,651,999 Input Tokens, 54,888,878 Output Tokens
-
-💵 $127722.24 Estimated AI Cost This Week
-
-🧠 154 AI Sessions, 664 AI Prompts
-
-GPT                      85,051 lines        █████████████████████████   99.91 % 
-Nemotron                 79 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.33% of written lines came from AI
-📚 Verbose Prompter — average 20,366 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.25% of changed lines were hand-edited
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -134,7 +66,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:06:51 UTC
+ Last Updated on 28/07/2026 20:03:31 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
