@@ -79,7 +79,7 @@ Don't really use:
 -->
 
 Games: 
-<a rel="me" href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas">Torn</a> &ensp; | &ensp;
-<a rel="me" href="https://politicsandwar.com/register/ref=SoumyaK4Cat" target="_blank" class="fas">Politics & War</a> &ensp; | &ensp;
-<a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
-<a rel="me" href="https://www.milkywayidle.com/?ref=79669" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
+<a rel="me" href="https://www.torn.com/profiles.php?XID=2361200" target="_blank">Torn</a> &ensp; | &ensp;
+<a rel="me" href="https://politicsandwar.com/register/ref=SoumyaK4Cat" target="_blank">Politics & War</a> &ensp; | &ensp;
+<a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank">SMMO</a> &ensp; | &ensp;
+<a rel="me" href="https://www.milkywayidle.com/?ref=79669" target="_blank">MilkyWayIdle</a> &ensp; | &ensp;
