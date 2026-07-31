@@ -57,7 +57,6 @@ I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independ
 <a rel="me" href="https://twitch.tv/SoumyaK4" target="_blank" class="fab fa-twitch  fa-2x"></a>
 <a rel="me" href="https://t.me/SoumyaK4" target="_blank" class="fab fa-telegram  fa-2x"></a>
 <a rel="me" href="https://youtube.com/@SoumyaK4" target="_blank" class="fab fa-youtube  fa-2x"></a>
-<a rel="me" href="https://www.reddit.com/user/SoumyaK4/" target="_blank" class="fab fa-reddit fa-2x"></a>
 <a rel="me" href="https://forums.online-go.com/u/soumyak4/summary" target="_blank" class="fas fa-o fa-2x"></a>
 <a rel="me" href="https://igomely.at/dashboard?egd=20462431&fox=SoumyaKK&ogs=SoumyaK4&generate-charts=true" target="_blank" class="fas fa-g fa-2x"></a>
 <a rel="me" href="https://senseis.xmp.net/?SoumyaK4" target="_blank" class="fas fa-s fa-2x"></a>
@@ -66,6 +65,7 @@ I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independ
 <br>
 <!--
 Don't really use: 
+<a rel="me" href="https://www.reddit.com/user/SoumyaK4/" target="_blank" class="fab fa-reddit fa-2x"></a>
 <a rel="me" href="https://en.wikipedia.org/wiki/User:SoumyaK4" target="_blank" class="fab fa-wikipedia-w"></a>
 <a rel="me" href="https://mastodon.social/@SoumyaK4" target="_blank" class="fab fa-mastodon"></a>
 <a rel="me" href="https://bsky.app/profile/soumyak4.bsky.social" target="_blank" class="fab fa-bluesky"></a>
@@ -78,7 +78,8 @@ Don't really use:
 <br>
 -->
 
-<!-- Games: 
+Games: 
 <a rel="me" href="https://www.torn.com/profiles.php?XID=2361200" target="_blank" class="fas">Torn</a> &ensp; | &ensp;
-<a rel="me" href="https://politicsandwar.com/nation/id=626478" target="_blank" class="fas">Politics & War</a> &ensp; | &ensp;
-<a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp; -->
+<a rel="me" href="https://politicsandwar.com/register/ref=SoumyaK4Cat" target="_blank" class="fas">Politics & War</a> &ensp; | &ensp;
+<a rel="me" href="https://web.simple-mmo.com/user/view/952187" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
+<a rel="me" href="https://www.milkywayidle.com/?ref=79669" target="_blank" class="fas">SMMO</a> &ensp; | &ensp;
