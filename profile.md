@@ -20,15 +20,16 @@ I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independ
 
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players from beginner onward |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | A searchable collection of free Go lectures and study series |
-| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
-| 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
 | ⚪⚫ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) (WeiqiHub Fork) | Offline-first Go training with pattern search, Puzzles, SRS, and AI |
 | 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track game data and make your improvement visible |
 | 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos |
 | ⚫⚪ [Web Katrain](https://sir-teo.github.io/web-katrain/) | A contribution to bring KataTrain into the browser |
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in) | An offline-friendly Go clock with major time-control systems |
 | ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | A BadukTV-inspired theme with JeffSounds |
-| ⚪⚫ [Free KataGo Guide](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
+| ⚪⚫ [Free Cloud KataGo](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
+| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
+| ⚪⚫ [BLABE](https://github.com/soumyak4/BLABE/releases) | Live Annotate on any Goban from video footages |
+| 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
 
 ### Other Projects
