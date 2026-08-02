@@ -2,6 +2,7 @@ backend:
   name: github
   repo: SoumyaK4/SoumyaK4
   branch: main
+  auth_methods: [token]
 
 media_folder: "assets/img"
 public_folder: "/assets/img"
