@@ -47,7 +47,7 @@
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,763 Contributions in the Year 2026
+> 🏆 1,764 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,18 +82,18 @@ Sunday                   403 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     31 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.15 % 
-Markdown                 18 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-C++                      9 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Python                   7 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-JSON                     5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Dart                     21 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
+Markdown                 15 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+C++                      9 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Python                   6 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+JSON                     5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🐱‍💻 Projects: 
-testHub                  71 hrs 38 mins      ██████████████████████░░░   89.76 % 
-Unknown Project          3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-tmp                      2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-system dotfiles          49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-katsura                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+testHub                  58 hrs 36 mins      ███████████████████████░░   93.33 % 
+Unknown Project          3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+system dotfiles          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+nygf                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+BLABE                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +109,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:31:28 UTC
+ Last Updated on 08/08/2026 19:10:30 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
