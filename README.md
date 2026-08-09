@@ -82,18 +82,18 @@ Sunday                   403 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     21 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
-Markdown                 15 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-C++                      9 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Python                   6 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-JSON                     5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Dart                     20 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Markdown                 15 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+C++                      8 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Python                   6 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+JSON                     5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🐱‍💻 Projects: 
-testHub                  58 hrs 36 mins      ███████████████████████░░   93.33 % 
-Unknown Project          3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-system dotfiles          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-nygf                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-BLABE                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+testHub                  57 hrs 18 mins      ███████████████████████░░   93.30 % 
+Unknown Project          3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+system dotfiles          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+nygf                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+BLABE                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +109,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:10:30 UTC
+ Last Updated on 09/08/2026 19:13:39 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
