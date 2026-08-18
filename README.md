@@ -12,18 +12,18 @@
 
 | Project | What it does |
 | --- | --- |
-| 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players |
+| 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players from beginner onward |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | A searchable collection of free Go lectures and study series |
-| 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with daily practice and thousands of puzzles |
-| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
-| 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
-| ⚪⚫ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) | Go study and play: KataGo analysis, tsumego training, pattern search, and teaching rooms |
+| ⚫⚪ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) (WeiqiHub Fork) | Go training with Pattern Search, Puzzles, SRS, and AI |
 | 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track game data and make your improvement visible |
 | 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos |
-| ⚫⚪ [Web KataTrain](https://github.com/SoumyaK4/web-katrain) | A contribution that brings KataTrain into the browser |
-| ⚪⚫ [Go Timer](https://gotimer.soumyak4.in/) | An offline-friendly Go clock with major time controls |
-| ⚫⚪ [KataTrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | A BadukTV-inspired theme with JeffSounds |
-| ⚪⚫ [Free KataGo Guide](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
+| ⚪⚫ [Go Timer](https://gotimer.soumyak4.in) | An offline-friendly Go clock with major time-control systems |
+| ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | A BadukTV-inspired theme with JeffSounds |
+| ⚪⚫ [Free Cloud KataGo](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
+| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
+| ⚪⚫ [BLABE](https://github.com/soumyak4/BLABE/releases) | Live Annotate on any Goban from video footages. Currently privately shared with Organisations |
+| 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
+| 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
 
 ## Other Projects
 
