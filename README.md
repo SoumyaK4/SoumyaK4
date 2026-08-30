@@ -58,21 +58,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                906 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-🌆 Daytime                946 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌃 Evening                1268 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-🌙 Night                  1353 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌞 Morning                906 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌆 Daytime                946 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+🌃 Evening                1271 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌙 Night                  1357 commits        ████████░░░░░░░░░░░░░░░░░   30.29 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   740 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Tuesday                  798 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Wednesday                765 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Thursday                 622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Friday                   640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Monday                   740 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  798 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Wednesday                765 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Thursday                 622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 
 
@@ -82,18 +82,18 @@ Sunday                   458 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     29 hrs 6 mins       █████████████░░░░░░░░░░░░   51.34 % 
-Markdown                 11 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-C++                      6 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Python                   3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-JSON                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Dart                     24 hrs 51 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
+Markdown                 11 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+C++                      8 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Python                   3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Text                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🐱‍💻 Projects: 
-testHub                  54 hrs 54 mins      ████████████████████████░   96.88 % 
-pymainichigo             47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-network                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+testHub                  54 hrs 20 mins      ████████████████████████░   97.44 % 
+Unknown Project          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+network                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 downSGF                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+pymainichigo             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -109,7 +109,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:07:24 UTC
+ Last Updated on 30/08/2026 21:24:53 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
