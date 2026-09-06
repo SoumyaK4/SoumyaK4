@@ -30,7 +30,7 @@ I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independ
 | ⚪⚫ [BLABE](https://github.com/soumyak4/BLABE/releases) | Live Annotate on any Goban from video footages. Currently privately shared with Organisations |
 | 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
-<!-- | ⚫⚪ [Web Katrain](https://sir-teo.github.io/web-katrain/) | A contribution to bring KataTrain into the browser | -->
+| ⚫⚪ [Web Katrain](https://sir-teo.github.io/web-katrain/) | A contribution to bring KataTrain into the browser |
 
 ### Other Projects
 
@@ -47,7 +47,7 @@ I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independ
 | 🎓 Academics | [Formal Studies](/Academics) |
 | ✨ Achievements | [Experiences](/Experiences) |
 | 📮 Posts | [Blog](/Blog) |
-| 💬 For Queries | [Contact Me](https://t.me/soumyak4) | 
+| 💬 For Queries | [Contact Me](https://discord.gg/ptjzTWU9SP) | 
 
  ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
 
