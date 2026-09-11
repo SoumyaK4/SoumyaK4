@@ -39,15 +39,15 @@
 - [Contact me on Telegram](https://t.me/soumyak4) · [Buy Me a Coffee](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,744 Contributions in the Year 2026
+> 🏆 2,765 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                982 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-🌆 Daytime                989 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌃 Evening                1364 commits        ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌙 Night                  1448 commits        ████████░░░░░░░░░░░░░░░░░   30.27 % 
+🌞 Morning                982 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                992 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌃 Evening                1381 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌙 Night                  1449 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   854 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Tuesday                  809 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Wednesday                832 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Thursday                 650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Saturday                 469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Sunday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Monday                   854 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  809 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Wednesday                839 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Thursday                 658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Friday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 470 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Sunday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 ```
 
 
@@ -82,27 +82,27 @@ Sunday                   490 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  92 hrs 13 mins      ████████████████████████░   96.29 % 
-Unknown Project          1 hr 38 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-OGS-Tampermonkey         1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-todo-extension           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-SoumyaK4                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+testHub                  75 hrs 38 mins      ████████████████████████░   94.94 % 
+OGS-Tampermonkey         2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Unknown Project          55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+downSGF                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+nygf                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+HTML                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 10/09/2026 21:07:55 UTC
+ Last Updated on 11/09/2026 21:13:32 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
