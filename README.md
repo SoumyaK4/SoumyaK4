@@ -39,15 +39,15 @@
 - [Contact me on Telegram](https://t.me/soumyak4) · [Buy Me a Coffee](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 3,008 Contributions in the Year 2026
+> 🏆 3,016 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                732 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-🌆 Daytime                752 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-🌃 Evening                1139 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌙 Night                  1183 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌞 Morning                732 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+🌆 Daytime                753 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+🌃 Evening                1146 commits        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+🌙 Night                  1191 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Tuesday                  627 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Wednesday                626 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Thursday                 575 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Friday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Sunday                   397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Monday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  627 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Wednesday                634 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Thursday                 575 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Friday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 
 
@@ -82,11 +82,11 @@ Sunday                   397 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  51 hrs 58 mins      ███████████████████████░░   92.34 % 
-Unknown Project          3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-WeiqiHub                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Weiqi-Roadmap            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-guess                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+testHub                  53 hrs 39 mins      ███████████████████████░░   91.65 % 
+Unknown Project          3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+WeiqiHub                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+101Down                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Weiqi-Roadmap            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -102,7 +102,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:49:47 UTC
+ Last Updated on 26/09/2026 21:26:40 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
