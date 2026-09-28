@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 3,016 Contributions in the Year 2026
+> 🏆 3,044 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                732 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌆 Daytime                753 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-🌃 Evening                1150 commits        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-🌙 Night                  1195 commits        ████████░░░░░░░░░░░░░░░░░   31.20 % 
+🌞 Morning                741 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌆 Daytime                759 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  1205 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Tuesday                  627 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 575 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Friday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Monday                   651 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Tuesday                  630 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Thursday                 575 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Friday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 
 
@@ -82,11 +82,11 @@ Sunday                   400 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  37 hrs 37 mins      ██████████████████████░░░   88.60 % 
-Unknown Project          3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-WeiqiHub                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-101Down                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Weiqi-Roadmap            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+testHub                  44 hrs 13 mins      ███████████████████████░░   91.45 % 
+Unknown Project          3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+101Down                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Weiqi-Roadmap            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+WeiqiHub                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -102,7 +102,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:35:25 UTC
+ Last Updated on 28/09/2026 23:31:18 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
