@@ -39,7 +39,7 @@
 - [Contact me on Telegram](https://t.me/soumyak4) · [Buy Me a Coffee](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-989%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,40 +55,6 @@
  > 
 > 🔑 35 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                741 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌆 Daytime                759 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌙 Night                  1205 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   651 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Tuesday                  630 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Thursday                 575 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Friday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🐱‍💻 Projects: 
-testHub                  44 hrs 13 mins      ███████████████████████░░   91.45 % 
-Unknown Project          3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-101Down                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Weiqi-Roadmap            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-WeiqiHub                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -102,7 +68,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:31:18 UTC
+ Last Updated on 29/09/2026 22:35:01 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
