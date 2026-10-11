@@ -8,13 +8,14 @@
 | ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) | Teacher, administrator, and community organiser |
 | 🥋 [Body & Brain Dojo](https://soumyak4.in/project/B%26B-Dojo/) | Martial-arts teaching and practice |
 
-## Go / Baduk / Weiqi Projects
+## Personal Projects 
+---
 
-| Project | What it does |
-| --- | --- |
+### Go / Baduk / Weiqi
+
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players from beginner onward |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | A searchable collection of free Go lectures and study series |
-| ⚫⚪ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) (WeiqiHub Fork) | Go training with Pattern Search, Puzzles, SRS, and AI |
+| ⚫⚪ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) | Swiss Army Knife for Go Studying & Playing |
 | 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track game data and make your improvement visible |
 | 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos |
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in) | An offline-friendly Go clock with major time-control systems |
@@ -25,13 +26,9 @@
 | 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
 
-## Other Projects
+### Other Projects
 
-| Project | What it does |
-| --- | --- |
-| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in/) | A web game for exploring rhyme |
-| 🇻🇳 [VietGo](https://viet-go.soumyak4.in/) *(discontinued)* | A Vietnam Go project |
-| 👀 [GoSGF](https://sgf.soumyak4.in/) *(discontinued)* | An online SGF editor |
+| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | A web game for exploring rhyme |
 
 ## Elsewhere
 
