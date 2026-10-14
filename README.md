@@ -44,7 +44,7 @@
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,188 Contributions in the Year 2026
+> 🏆 3,189 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,18 +79,18 @@ Sunday                   436 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     11 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.32 % 
-Markdown                 9 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Other                    1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Go                       1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Dart                     10 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.97 % 
+Markdown                 9 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Other                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Go                       1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-testHub                  24 hrs 56 mins      ██████████████████████░░░   86.25 % 
-golaxy-api-lab           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-golab-board              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-swhub                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-smthn                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+testHub                  24 hrs 4 mins       █████████████████████░░░░   85.83 % 
+golaxy-api-lab           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+golab-board              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+swhub                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+smthn                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -106,7 +106,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 23:05:17 UTC
+ Last Updated on 14/10/2026 21:56:58 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/soumyak4)
