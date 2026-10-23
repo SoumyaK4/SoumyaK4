@@ -11,6 +11,10 @@ tag: [Go, Baduk, Weiqi, BadukTube, Lectures, Collection, Directory, Database, Re
 permalink: /project/BadukTube/
 ---
 
+BadukTube makes free YouTube Go/Baduk/Weiqi lectures easier to find. Search by title and narrow the results by **rank, topic, and tags**, or browse curated collections for a focused study session.
+
+The [live catalogue](https://baduktube.soumyak4.in/) contains **1,246 lectures as of 23 October 2026**. Collections include series from Clossius, EGF Academy, Go Magic, Yunguseng Dojang and many more.
+
 <hr>
 <a href="https://buymeacoffee.com/soumyak4" target="_blank" rel="noopener noreferrer" class="btn coffee fas fa-mug-hot"> Buy Me a Coffee</a>
 
@@ -18,13 +22,28 @@ permalink: /project/BadukTube/
 
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
-### v1.1.0 - 10 July 2026
+### Catalogue milestone - 10 July 2026
 
 1. 1200+ Lectures
+
+### Content update - 21 March 2026
+
+1. Added approximately 250 videos.
+
+[Announcement on the OGS forum](https://forums.online-go.com/t/baduktube/56908/9).
 
 ### v1.1.0 - 21 February 2026
 
 1. Some UI/UX Improvements
+2. Updated back-end helpers.
+
+[Announcement on the OGS forum](https://forums.online-go.com/t/go-projects-collection-soumyak4/56205/29).
+
+### Catalogue milestone - 2 January 2026
+
+1. Crossed 1,000 lectures.
+
+[New Year community update](https://www.reddit.com/r/baduk/comments/1q24vmn/updates_on_my_go_projects/).
 
 ### v1.0.4 - 29 December 2025
 
@@ -83,3 +102,9 @@ permalink: /project/BadukTube/
 ### v0.3 - 9 March 2025
 
 1. Basic Prototype ready
+
+## Help improve the catalogue
+
+Found a video with the wrong rank, topic, or tags? Share its title and the correction in the [BadukTube OGS thread](https://forums.online-go.com/t/baduktube/56908) or [contact me on Discord](https://discord.gg/ptjzTWU9SP). Suggestions for focused playlists are welcome too, videos should be in English or have English subtitles. 
+
+
