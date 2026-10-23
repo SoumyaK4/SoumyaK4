@@ -116,23 +116,3 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
 </div>
-
-### Local website preview
-
-With Ruby, Bundler, and Ruby development headers installed, run:
-
-```sh
-./tools/run.sh
-```
-
-The first run installs the site's gems into `vendor/bundle`. Open
-<http://127.0.0.1:4000>; saving a page or post rebuilds the site and reloads
-the browser automatically. Stop the server with `Ctrl+C` and restart it after
-editing `_config.yml`.
-
-In VS Code, **Terminal → Run Build Task** (`Ctrl+Shift+B`) starts the same preview.
-To build without starting a server, run `./tools/jekyll.sh build`.
-
-On Ubuntu, install prerequisites with
-`sudo apt install ruby-full ruby-dev build-essential`.
-See the [Jekyll command-line documentation](https://jekyllrb.com/docs/usage/).
