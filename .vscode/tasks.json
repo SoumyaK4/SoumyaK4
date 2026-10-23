@@ -15,7 +15,12 @@
     {
       "label": "Build Jekyll Site",
       "type": "shell",
-      "command": "./tools/test.sh",
+      "command": "./tools/jekyll.sh build",
+      "options": {
+        "env": {
+          "JEKYLL_ENV": "production"
+        }
+      },
       "group": {
         "kind": "build"
       },

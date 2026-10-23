@@ -9,6 +9,8 @@ tag: [Go, Baduk, Weiqi, Vietnam, Go Ratings]
 permalink: /project/Vietnam-Go/
 ---
 
+Stopped developement
+
 ## Changelog
 
 ### v0.4.1_alpha - 27 March 2025

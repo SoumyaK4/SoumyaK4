@@ -21,9 +21,9 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_PROJECTS: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE: "False"
           SHOW_LOC_CHART: "False"
           

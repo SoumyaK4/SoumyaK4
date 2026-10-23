@@ -4,9 +4,9 @@ title: Profile
 permalink: /
 ---
 
-## Hi, I’m Soumya (SoumyaK4) 👋 A Passionate Student/Teacher From India
+## Hi, I’m Soumya (SoumyaK4) 👋 A Passionate Student/Teacher From Kolkata, India
 
-I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independent builder. I create practical learning resources and open tools that make it easier to study, play, and teach Go.
+I teach Marial Arts and create practical learning resources & tools that make it easier to study, play, and teach Go/Baduk/Weiqi.
 
 ## Current Work
 
@@ -46,7 +46,7 @@ I’m a Kolkata-based Go/Baduk/Weiqi educator, community organiser, and independ
 | 📮 Posts | [Blog](/Blog) |
 | 💬 For Queries | [Contact Me](https://discord.gg/ptjzTWU9SP) | 
 
- ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
+![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
 
 ### Socials n Stuff
 ---
