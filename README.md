@@ -41,31 +41,31 @@
 [Academics](https://soumyak4.in/Academics/) · [Experiences](https://soumyak4.in/Experiences/) · [Buy Me a Coffee ☕](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,978 Contributions in the Year 2026
+> 🏆 3,005 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                638 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-🌆 Daytime                683 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-🌃 Evening                1059 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌙 Night                  1018 commits        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌞 Morning                638 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌆 Daytime                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌃 Evening                1049 commits        ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌙 Night                  1011 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
 ```
 
 
@@ -95,7 +95,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:39:34 UTC
+ Last Updated on 24/10/2026 21:08:30 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
