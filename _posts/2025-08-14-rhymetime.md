@@ -5,6 +5,7 @@ date: 2025-08-14 00:00:00 +0530
 category: [Poem, Rhyme]
 type: project
 pin: true
+permalink: /project/RhymeTime/
 ---
 
 ## [RhymeTime](https://rhymetime.soumyak4.in)
