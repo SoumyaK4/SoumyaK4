@@ -22,6 +22,10 @@ The [live catalogue](https://baduktube.soumyak4.in/) contains **1,246 lectures a
 
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
+### v1.1.0 - 26 October 2026
+
+1. Some UI/UX and Security Improvements
+
 ### Catalogue milestone - 10 July 2026
 
 1. 1200+ Lectures
