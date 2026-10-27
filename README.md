@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -51,7 +51,7 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,026 Contributions in the Year 2026
+> 🏆 3,027 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,10 +62,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                648 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-🌆 Daytime                690 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-🌃 Evening                1070 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
-🌙 Night                  1035 commits        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+🌞 Morning                648 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+🌆 Daytime                690 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌃 Evening                1074 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌙 Night                  1040 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
 ```
 
 
@@ -75,11 +75,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  32 hrs 53 mins      ████████████████████░░░░░   78.25 % 
-BadukTube                1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-SoumyaK4                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-RhymeTime                1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-system dotfiles          1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+testHub                  34 hrs 15 mins      ████████████████████░░░░░   78.82 % 
+BadukTube                1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+SoumyaK4                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+RhymeTime                1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+system dotfiles          1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -95,7 +95,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:55:25 UTC
+ Last Updated on 27/10/2026 22:34:01 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
