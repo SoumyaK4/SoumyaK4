@@ -44,9 +44,9 @@ I teach Marial Arts and create practical learning resources & tools that make it
 | 🎓 Academics | [Formal Studies](/Academics) |
 | ✨ Achievements | [Experiences](/Experiences) |
 | 📮 Posts | [Blog](/Blog) |
-| 💬 For Queries | [Contact Me](https://discord.gg/ptjzTWU9SP) | 
+| 💬 For Queries | <a href="https://discord.gg/ptjzTWU9SP"><img alt="Discord chat: members online" src="https://img.shields.io/discord/1369452545730285698?label=Contact&amp;logo=discord&amp;logoColor=white&amp;color=35664a"></a> | 
 
-![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) 
+![](https://komarev.com/ghpvc/?username=soumyak4&label=Views&color=brightgreen) 
 
 ### Socials n Stuff
 ---
