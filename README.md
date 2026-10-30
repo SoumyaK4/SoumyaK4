@@ -41,15 +41,15 @@
 [Academics](https://soumyak4.in/Academics/) · [Experiences](https://soumyak4.in/Experiences/) · [Buy Me a Coffee ☕](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,068 Contributions in the Year 2026
+> 🏆 3,081 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,6 +57,29 @@
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                653 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+🌆 Daytime                700 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌃 Evening                1093 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌙 Night                  1067 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🐱‍💻 Projects: 
+testHub                  32 hrs 33 mins      ███████████████░░░░░░░░░░   61.40 % 
+GoBookz                  6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+GoTwitchDiscord          3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+TsumeGod                 2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+swhub                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -70,7 +93,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:59:41 UTC
+ Last Updated on 30/10/2026 22:40:03 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
