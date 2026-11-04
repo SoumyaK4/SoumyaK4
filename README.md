@@ -41,15 +41,15 @@
 [Academics](https://soumyak4.in/Academics/) · [Experiences](https://soumyak4.in/Experiences/) · [Buy Me a Coffee ☕](https://buymeacoffee.com/soumyak4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.82%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,086 Contributions in the Year 2026
+> 🏆 3,111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,10 +60,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                653 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-🌆 Daytime                700 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-🌃 Evening                1096 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌙 Night                  1069 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌞 Morning                647 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌆 Daytime                692 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌃 Evening                1091 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌙 Night                  1048 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
 ```
 
 
@@ -73,19 +73,19 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  32 hrs 33 mins      ███████████████░░░░░░░░░░   61.40 % 
-GoBookz                  6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-GoTwitchDiscord          3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-TsumeGod                 2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-swhub                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+testHub                  15 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.75 % 
+GoBookz                  7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+swhub                    3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+TsumeGod                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+GoTwitchDiscord          2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+HTML                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
@@ -93,7 +93,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 21:52:56 UTC
+ Last Updated on 04/11/2026 04:41:53 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
