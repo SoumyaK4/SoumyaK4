@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,123 Contributions in the Year 2026
+> 🏆 3,125 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,10 +60,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                647 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-🌆 Daytime                693 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-🌃 Evening                1097 commits        ████████░░░░░░░░░░░░░░░░░   31.44 % 
-🌙 Night                  1052 commits        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌞 Morning                656 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+🌆 Daytime                707 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌃 Evening                1109 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+🌙 Night                  1085 commits        ████████░░░░░░░░░░░░░░░░░   30.50 % 
 ```
 
 
@@ -73,11 +73,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  19 hrs 27 mins      ██████████████░░░░░░░░░░░   55.91 % 
-GoBookz                  8 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-swhub                    3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Weiqi-Roadmap            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-TChat                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+testHub                  18 hrs 7 mins       █████████████████░░░░░░░░   69.46 % 
+GoBookz                  3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+swhub                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Weiqi-Roadmap            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TChat                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -93,7 +93,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 23:52:14 UTC
+ Last Updated on 06/11/2026 23:29:51 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
