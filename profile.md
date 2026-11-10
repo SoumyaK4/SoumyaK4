@@ -12,6 +12,7 @@ I teach Martial Arts and create practical learning resources & tools that make i
 
 | ⚫⚪ [Association of Indian Go Players](https://aigp.org.in/) | Webmaster, Teacher |
 | 🥋 [Body & Brain Dojo](/project/B&B-Dojo) | Martial-arts teaching and practice |
+| 🎉 [Let's Go! / New Year Go Festival](https://nygf.soumyak4.in/) | Server admin for community Go events |
 
 ## Personal Projects 
 ---
@@ -21,19 +22,23 @@ I teach Martial Arts and create practical learning resources & tools that make i
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players from beginner onward |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | A searchable collection of free Go lectures and study series |
 | ⚫⚪ [SWHub](https://github.com/SoumyaK4/SWHub/releases/latest) | Swiss Army Knife for Go Studying & Playing |
-| 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track game data and make your improvement visible |
-| 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos |
+| 📖 [GoBookz](https://gobookz.soumyak4.in/) | Turn PDF Go books into offline HTML readers with interactive diagrams and searchable text |
+| 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Log games, tsumego practice, and monthly goals offline, with JSON backups |
+| 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos, or create PNG images with [SGF Postcards](https://sgf2mv.soumyak4.in/SGF-Postcards.html) |
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in) | An offline-friendly Go clock with major time-control systems |
 | ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | A BadukTV-inspired theme with JeffSounds |
-| ⚪⚫ [Free Cloud KataGo](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
-| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
+| ⚪⚫ [Free Cloud KataGo](https://github.com/SoumyaK4/SWHub/tree/SWHub/Docs/Free%20Cloud%20Katago) | Colab and Modal guides for remote analysis and KataGo training contribution |
+| ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Custom backgrounds, compact layouts, move navigation, and review tools for Online-Go.com |
 | ⚪⚫ [BLABE](https://discord.gg/ptjzTWU9SP) | Live annotation of Go boards from video footage. Shared privately with organisations; contact me for access enquiries |
 | 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
+| 🤝 [GoRengo](/project/Lets-Go/#gorengo) | Multiplayer Go in Discord, with queue, random, and teacher-led modes |
+| 📺 [GoTwitch](/project/Lets-Go/#gotwitch) | Discord stream notifications with category and streamer preferences |
 
 ### Other Projects
 
-| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | A web game for exploring rhyme |
+| 🈳 [LangFlash](https://lang.soumyak4.in/) | Offline flashcards and spaced repetition for Hangul, Japanese kana, and simplified Chinese characters |
+| 📚🎶 [RhymeTime](https://rhymetime.soumyak4.in) | Word sprints, verse challenges, and an untimed rhyme lab |
 
 
 ## Other Stuff

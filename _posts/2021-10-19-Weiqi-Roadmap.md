@@ -22,6 +22,10 @@ The resource directory now has dedicated pages for places to play, databases, to
 
 ## Changelog for [Weiqi Roadmap](https://weiqi.soumyak4.in)
 
+### Link maintenance - 4 November 2026
+
+1. Removed unavailable resources, including broken ExploreBaduk links.
+
 ### Books update - 22 September 2026
 
 1. Expanded the dedicated Books page with free introductory guides and recommendations for beginners, DDKs, and SDKs.
