@@ -16,7 +16,7 @@
 
 ### 🚀 Featured Projects
 
-**[SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/)** <br> *All-in-one Go/Baduk/Weiqi study & play toolkit* <br>
+**[SWHub](https://github.com/SoumyaK4/SWHub/releases/latest)** <br> *All-in-one Go/Baduk/Weiqi study & play toolkit* <br>
 
 **[Weiqi Roadmap](https://weiqi.soumyak4.in/)** <br> *Structured Go learning guide* <br>
 
@@ -28,7 +28,7 @@
 
 **Go tools**  
 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) · [Go Timer](https://gotimer.soumyak4.in/) · [TsumeGod](https://tsumegod.soumyak4.in/) <br>
-[SGF to Music Video](https://sgf2mv.soumyak4.in/) · [BLABE](https://github.com/soumyak4/BLABE/releases)
+[SGF to Music Video](https://sgf2mv.soumyak4.in/) · [BLABE (private access enquiries)](https://discord.gg/ptjzTWU9SP)
 
 **Customisation & scripts**  
 [KaTrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) · [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) · [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726)

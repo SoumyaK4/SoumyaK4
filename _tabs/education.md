@@ -6,12 +6,14 @@ permalink: /Academics/
 
 ## Main Certificates
 <hr>
-1. [University Certificate - BCA (Honors)](https://github.com/SoumyaK4/Important-Docs) : [See Results](https://github.com/SoumyaK4/Important-Docs)
+1. University Certificate - BCA (Honors)
 2. [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6QU2LWABMW5H) : [Click Here for Other Google Certificates](#Google)
 3. [Cloud Computing 101](https://www.coursera.org/account/accomplishments/certificate/5AWU24NP6KSD)
-4. [Certificate in Data Science Foundation](https://github.com/SoumyaK4/Important-Docs) : [Click Here for Other INSAID Certificates](#INSAID)
-5. [IBM Data Science Professional Certificate](https://github.com/SoumyaK4/Important-Docs) : [Click Here for Other IBM Certificates](#IBM)
+4. Certificate in Data Science Foundation : [Click Here for Other INSAID Certificates](#INSAID)
+5. IBM Data Science Professional Certificate : [Click Here for Other IBM Certificates](#IBM)
 6. Check my [Credly Badges](https://www.credly.com/users/soumyak4)
+
+For questions about certificates or university results, [contact me on Discord](https://discord.gg/ptjzTWU9SP).
 
 ## Additional Certificates
 <hr id=Google>
@@ -25,10 +27,10 @@ permalink: /Academics/
 
 <hr id=INSAID>
 #### INSAID
-1. [NumPy & Pandas](https://github.com/SoumyaK4/Important-Docs)
-2. [Matplotlib & Seaborn](https://github.com/SoumyaK4/Important-Docs)
-3. [EDA & Data Storytelling](https://github.com/SoumyaK4/Important-Docs)
-4. [Combating Climate Change The Data Science Way](https://github.com/SoumyaK4/Important-Docs)
+1. NumPy & Pandas
+2. Matplotlib & Seaborn
+3. EDA & Data Storytelling
+4. Combating Climate Change The Data Science Way
 
 <hr id=IBM>
 #### IBM

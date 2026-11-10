@@ -10,16 +10,19 @@ permalink: /Experiences/
 <details>
 <summary><h2 style="display: inline;">ToC</h2></summary>
 <div markdown="1">
-1. [2025](#2025)
-2. [2024](#2024)
-3. [2023](#2023)
-4. [2022](#2022)
-5. [2021](#2021)
-6. [2020](#2020)
-7. [2019](#2019)
-8. [2018](#2018)
-9. [2017](#2017)
-10. [2016](#2016)
+1. [2026](#2026)
+2. [2025](#2025)
+3. [2024](#2024)
+4. [2023](#2023)
+5. [2022](#2022)
+6. [2021](#2021)
+7. [2020](#2020)
+8. [2019](#2019)
+9. [2018](#2018)
+10. [2017](#2017)
+11. [2016](#2016)
+12. [2014](#2014)
+13. [2012](#2012)
 </div> 
 </details>
 <hr>
@@ -31,7 +34,7 @@ permalink: /Experiences/
 ## 2025
 
 1. **2 February** - Coaching Go Trainers for an organization.
-2. **17 February** - Hosting the 2nd Indian Online <a href="https://leago.gg/event/mojchja" target="_blank">Quarterly Go Tournamnet</a>.
+2. **17 February** - Hosting the 2nd Indian Online <a href="https://leago.gg/event/mojchja" target="_blank">Quarterly Go Tournament</a>.
 3. **27 April** - Co-hosting <a href="https://aigp.org.in/2025/04/01/indo-malaysian-friendship-cup.html" target="_blank">Indo-Malaysian Friendship Go Cup</a>, the first Online International Go Tournament by India.
 4. **21-25 May** - Represented India in 3rd Asian Amateur Weiqi Championship
 5. **7 September - 14 September** - Represented India at the <a href="https://kpmc.kbaduk.or.kr/us/2025/player" target="_blank">20th KPMC(Korea Prime Minister Cup Baduk Championship)</a>
@@ -63,7 +66,6 @@ permalink: /Experiences/
 1. **February** - First freelance work with WordPress.
 2. **May** - Played(Lost horribly) my first 19x19 Go Game.
 3. **November** - Started Teaching Go/Weiqi/Baduk to Beginners.
-4. 
 
 ## 2020
 

@@ -6,7 +6,7 @@ permalink: /
 
 ## Hi, I’m Soumya (SoumyaK4) 👋 A Passionate Student/Teacher From Kolkata, India
 
-I teach Marial Arts and create practical learning resources & tools that make it easier to study, play, and teach Go/Baduk/Weiqi.
+I teach Martial Arts and create practical learning resources & tools that make it easier to study, play, and teach Go/Baduk/Weiqi.
 
 ## Current Work
 
@@ -20,14 +20,14 @@ I teach Marial Arts and create practical learning resources & tools that make it
 
 | 🎓 [Weiqi Roadmap](https://weiqi.soumyak4.in/) | A structured, free learning path for Go players from beginner onward |
 | ⚪⚫ [BadukTube](https://baduktube.soumyak4.in/) | A searchable collection of free Go lectures and study series |
-| ⚫⚪ [SWHub](https://github.com/SoumyaK4/WeiqiHub/releases/) | Swiss Army Knife for Go Studying & Playing |
+| ⚫⚪ [SWHub](https://github.com/SoumyaK4/SWHub/releases/latest) | Swiss Army Knife for Go Studying & Playing |
 | 🎓 [Weiqi Tracker](https://wq-tracker.soumyak4.in/) | Track game data and make your improvement visible |
 | 🎼 [SGF to Music Video](https://sgf2mv.soumyak4.in/) | Turn Go games into music videos |
 | ⚪⚫ [Go Timer](https://gotimer.soumyak4.in) | An offline-friendly Go clock with major time-control systems |
 | ⚫⚪ [Katrain Theme](https://github.com/SoumyaK4/Katrain-Theme-SoumyaK4) | A BadukTV-inspired theme with JeffSounds |
 | ⚪⚫ [Free Cloud KataGo](https://gist.github.com/SoumyaK4/87336ad7553f4a80173ee477ebeba364) | Run KataGo on free cloud GPUs |
 | ⚫⚪ [OGS Script](https://github.com/SoumyaK4/OGS-Tampermonkey) | Tampermonkey enhancements for Online-Go.com board pages |
-| ⚪⚫ [BLABE](https://github.com/soumyak4/BLABE/releases) | Live Annotate on any Goban from video footages. Currently privately shared with Organisations |
+| ⚪⚫ [BLABE](https://discord.gg/ptjzTWU9SP) | Live annotation of Go boards from video footage. Shared privately with organisations; contact me for access enquiries |
 | 📚 [Sensei's Library Script](https://gist.github.com/SoumyaK4/527634f02694d3de9e73123f9c611726) | A dark theme and compact BesoGo SGF popup for Sensei's Library |
 | 🤖 [TsumeGod](https://tsumegod.soumyak4.in/) | A Telegram tsumego bot with thousands of puzzles and daily practice |
 
