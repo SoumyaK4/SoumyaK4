@@ -119,6 +119,7 @@ exclude:
   - "*.gemspec"
   - docs
   - tools
+  - indexnow
   - vendor
   - README.md
   - LICENSE

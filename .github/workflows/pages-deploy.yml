@@ -56,10 +56,24 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
+      - name: Record pages for IndexNow
+        run: >-
+          python3 .github/scripts/indexnow.py snapshot
+          --site-dir "_site${{ steps.pages.outputs.base_path }}"
+          --site-url https://soumyak4.in
+          --output indexnow/current.json
+          --previous-output indexnow/deployed.json
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
+
+      - name: Upload IndexNow snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-snapshot
+          path: indexnow/*.json
 
   deploy:
     environment:
@@ -71,3 +85,45 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  indexnow:
+    name: Notify IndexNow
+    runs-on: ubuntu-latest
+    needs: deploy
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download current snapshot
+        uses: actions/download-artifact@v4
+        with:
+          name: indexnow-snapshot
+          path: indexnow
+
+      - name: Restore last submitted snapshot
+        uses: actions/cache/restore@v4
+        with:
+          path: indexnow/previous.json
+          key: indexnow-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            indexnow-v1-${{ github.ref_name }}-
+
+      - name: Submit new, updated, and deleted pages
+        run: >-
+          python3 .github/scripts/indexnow.py submit
+          --current indexnow/current.json
+          --previous indexnow/previous.json
+          --fallback indexnow/deployed.json
+          --key-file 5f14bc6a018745041eab9fa1cdc6dffd.txt
+
+      # Save only after success, so a failed submission is retried next time.
+      - name: Update submitted snapshot
+        run: cp indexnow/current.json indexnow/previous.json
+
+      - name: Save submitted snapshot
+        uses: actions/cache/save@v4
+        with:
+          path: indexnow/previous.json
+          key: indexnow-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}

@@ -26,3 +26,10 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 .qodo
+
+# IndexNow deployment snapshots
+/indexnow/
+__pycache__/
+
+# Local IndexNow checks; kept out of commits.
+/tools/test_indexnow.py
