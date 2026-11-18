@@ -13,7 +13,7 @@ permalink: /project/BadukTube/
 
 BadukTube makes free YouTube Go/Baduk/Weiqi lectures easier to find. Search by title and narrow the results by **rank, topic, and tags**, or browse curated collections for a focused study session.
 
-The [live catalogue](https://baduktube.soumyak4.in/) contains **1,246 lectures as of 23 October 2026**. Collections include series from Clossius, EGF Academy, Go Magic, Yunguseng Dojang and many more.
+[Browse the live catalogue](https://baduktube.soumyak4.in/) or explore [collections](https://baduktube.soumyak4.in/collections) from Clossius, EGF Academy, Go Magic, Yunguseng Dojang, and others.
 
 <hr>
 <a href="https://buymeacoffee.com/soumyak4" target="_blank" rel="noopener noreferrer" class="btn coffee fas fa-mug-hot"> Buy Me a Coffee</a>
@@ -22,9 +22,17 @@ The [live catalogue](https://baduktube.soumyak4.in/) contains **1,246 lectures a
 
 ## Changelog for [BadukTube](https://baduktube.soumyak4.in)
 
+### Pattern Search - 18 November 2026
+
+1. Now you can search for a lecture by playing a sequence/shape on the board.
+
 ### UI/UX and security update - 26 October 2026
 
 1. Some UI/UX and Security Improvements
+
+### Catalogue snapshot - 23 October 2026
+
+The catalogue contained 1,246 lectures.
 
 ### Catalogue milestone - 10 July 2026
 
