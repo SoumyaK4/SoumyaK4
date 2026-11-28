@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,10 +65,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                661 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-🌆 Daytime                764 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-🌃 Evening                1122 commits        ████████░░░░░░░░░░░░░░░░░   30.48 % 
-🌙 Night                  1134 commits        ████████░░░░░░░░░░░░░░░░░   30.81 % 
+🌞 Morning                670 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+🌆 Daytime                778 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+🌃 Evening                1136 commits        ████████░░░░░░░░░░░░░░░░░   30.26 % 
+🌙 Night                  1170 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
 ```
 
 
@@ -78,11 +78,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 🐱‍💻 Projects: 
-testHub                  28 hrs 26 mins      ███████████████████████░░   92.39 % 
-swhub                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-search-light             36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-downSGF                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-nygf                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+testHub                  26 hrs 5 mins       ███████████████████████░░   92.90 % 
+swhub                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+search-light             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+downSGF                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+nygf                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -98,7 +98,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 01:59:25 UTC
+ Last Updated on 28/11/2026 01:40:32 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=soumyak4&label=Profile%20views&color=brightgreen) <br>
 
